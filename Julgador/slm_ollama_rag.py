@@ -66,7 +66,7 @@ def perguntar_ao_modelo(system_prompt: str, user_prompt: str) -> dict:
 
 # ---------------- FUNÇÃO PRINCIPAL ----------------
 
-def avaliar_arquivo(input_csv="dados.csv", output_csv="output.csv",
+def avaliar_arquivo(input_csv="dados.csv", amostra_caio_com_tratamento="amostra_caio_com_tratamento.csv",
                     path_capitulos="ncm_capitulos.csv", path_completo="ncm_reduzido.csv"):
 
     # Leitura do arquivo de entrada
