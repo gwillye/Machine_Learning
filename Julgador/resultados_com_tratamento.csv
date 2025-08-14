@@ -1,0 +1,1502 @@
+prod_xprod,rotulo_cliente,rotulo_ia,capitulo_correto,explicacao
+"VACA PARA ABATE - 7,067.000",1,1.0,01,IA: Vaca para abate é animal vivo.
+PINTINHO,1,1.0,INCONCLUSIVO,<CLIENTE | IA | INCONCLUSIVO>: Produto muito genérico
+PINTINHO,1,1.0,INCONCLUSIVO,<CLIENTE | IA | INCONCLUSIVO>: Produto muito genérico
+VACA P/ABATE - 21.00,1,1.0,01,IA: Animal vivo para abate
+"GADO EQUINO VIVO - FEMEA QUARTO DE MILHA, NOME: CAPITAL NCONF SAN, REGISTRO: P086207",1,1.0,01,IA: Gado equino vivo se enquadra em animais vivos
+FEMEA PARA ABATE 24 A 36 M - 237.570,1,1.0,01,IA: Femea para abate é animal vivo
+1 MINI OSCAR PINTO EROTICO DOURADO / DESPEDIDA DE SOLTEIRA,1,95.0,95.0,IA: Produto de natureza lúdica e erótica.
+VACA P/ABATE - 51.00,1,1.0,01,IA: Animal vivo para abate
+"SEMPRE RAIA UM NOVO DIA RAIA &AMP HERMANN, CLAUDIA &A",1,49.0,49,IA: Produto cultural
+PINTINHO SKV0015,1,1.0,34,IA | Produto de limpeza
+PINTINHO QUIQUIRIQUI,1,1.0,1,CLIENTE: Produto é animal vivo.
+O PINTINHO ADOTIVO,1,1.0,1,IA: Animal vivo
+VACA PARA ABATE - 158.800,1,1.0,01,IA: Vaca para abate é animal vivo.
+PA150042 KIT DIA A DIA C/3 ITENS CEREJA,1,33.0,33.0,IA: Kit alimentício
+BOVINO F PARA ABATE +36M ( 41 VOL),1,1.0,01,IA: Animal vivo para abate
+PINTINHO AMARELINHO,1,1.0,34,IA: Produto de limpeza
+BIOGELIS VOLUMAX,10,30.0,30,IA: Produto cosmético
+"FOLHA DE ARROZ QUADRADA GW 300G CX 36UN;BC ICMS ST: 86,73 ICMS ST: 4,59",10,19.0,10,CLIENTE: Folha de arroz é cereal.
+FIBRA TRIGO W-75,10,10.0,10,IA |  Produto derivado de trigo.
+VIKING 7KG,10,,10,CLIENTE: Viking 7kg sugere cereal
+SUPLEMENTO MINERAL - (25KG),10,23.0,23.0,IA: Suplemento mineral se encaixa em produtos químicos
+B+ RG O CV VIES RIB R1217 G BRANCO,10,60.0,10,CLIENTE: Descrição indica cereal.
+PANAQUE AMBRUSTERI L027,10,3.0,10,CLIENTE: Panaque é um cereal.
+POLYBLEM MILHO PLANT NO-TOP 32-11-00 (PARCIAL) (BG 1000 KG),10,31.0,10,CLIENTE: Produto derivado de milho.
+SS M 6410 TRAT C/ SK (CAMISC) (SC),10,84.0,62,IA | Produto é vestuário.
+TUPCX PB ARROZ 2KG +FEIJ+SAL G,10,21.0,10,CLIENTE: Produto contém arroz.
+PLATAF. MILHO MAESTRA 13X45,10,84.0,10,CLIENTE: Plataforma de milho indica cereal.
+FECHAMENTO MILHO MF34,10,73.0,10,CLIENTE: Fechamento de milho é cereal.
+FIBRA DE TRIGO FINA KG,10,10.0,10,IA | CLIENTE: Fibra de trigo é derivado de cereal
+PENDAO MILHO ROSA,10,10.0,10,IA | Pendão de milho é cereal.
+CATTLEYAS DIVERSAS COD. A,10,6.0,06,IA: Flores são classificadas no capítulo 6
+SAIDA MATERNIDADE TRICOT PONTO ARROZ VERMELHO 02 PECAS,10,61.0,61,IA: Produto de vestuário
+KIT ESSENCIAIS CERVEJEIRO - COMBO CEVADA,10,10.0,10,IA | CLIENTE: Combo contém cevada
+PLATAF DE MILHO 6 LINHA JJC0240407,10,84.0,10,CLIENTE: Plataforma de milho é cereal.
+MATUTO INSULINIUM 90G,10,30.0,10,CLIENTE: Produto alimentício.
+MILHO 3D FESTA JUNINA 35CM,10,95.0,95,"IA: Produto decorativo, não alimentício"
+PAPEL ARROZ,10,48.0,48,IA: Papel arroz é produto de celulose.
+STE ODILE INSTAGRAM - HOCANM12857745,10,,10,CLIENTE: Produto se encaixa na categoria de cereais.
+MILHO COM CORDA 1 UNID,10,95.0,10,CLIENTE: Milho é cereal.
+T10559 EM SINTETICO MRK INDIGO/NESCAU/NB QUINOA,10,64.0,10,CLIENTE: Produto indica cereal.
+POINSENTIA 28CM - FL2389,10,6.0,10,CLIENTE: Produto se encaixa na descrição de cereais.
+PC CHIPART TIO BLACK CHP0120,10,84.0,84.0,IA: PC é dispositivo eletrônico.
+CARVAO CAPAO BONITO 6K,10,27.0,27,IA: Carvão é classificado no capítulo 27
+FLOR C/PETA PON,10,6.0,10,CLIENTE: Flor com peta indica produto vegetal.
+KIT 4 TELAS MILHETO,10,73.0,10,CLIENTE: Produto derivado de cereal.
+PAPEL ARROZ 3 KG,10,19.0,48,IA | Papel é classificado no capítulo 48
+AMARANTO 33,10,10.0,10,IA | O amaranto é um cereal.
+FEIJO CARIOCA GUACIRA 1KG,10,7.0,10,CLIENTE: Feijão é um cereal.
+AMOSTRA HUMIDICOLA,10,10.0,10,IA | A descrição indica produto agrícola.
+DIE FOR YOU - EXPERIMENTAL TAMANHO::G,10,49.0,49.0,IA: Produto vestuário
+MILHO DE BISCUIT MINIATURA 10 UNIDADES - APLIQUE FESTA JUNINA BISCUIT,10,96.0,10,CLIENTE: Milho é cereal.
+KIT MILHO VSET,10,84.0,10,CLIENTE: Kit contém cereal.
+PLACA 20A12 VIP3,10,85.0,85,IA: Placa indica componente eletrônico
+"LATA GRAOS, PR100",10,73.0,10,CLIENTE: lata de grãos indica cereal
+231.AC.41002  231155004  PONCHO,10,61.0,61.0,IA: Poncho é peça de vestuário.
+LAVANYA ROSEMARY CX0.5KG,10,12.0,12.0,IA: Produto likely é óleo essencial
+BRIQFENO,10,,10,CLIENTE: Briqfeno é derivado de cereais.
+GNB POP UP ROMA COMPOTAS,10,20.0,20,IA: Compotas são preparos alimentícios.
+B2620 (SCE2620) SNZ ROLT 1,10,84.0,84.0,IA: Produto parece ser uma ferramenta.
+BOCA MILHO REX,10,84.0,10,CLIENTE: Boca de milho é cereal.
+SUPLEMENTO MINERAL BELLPESO SVSC,10,23.0,21,IA: Suplemento mineral é classificado como produto farmacêutico
+CATTLEYAS DIVERSAS COD. D,10,6.0,06,IA: Flores são classificadas no capítulo 6.
+EMBALAGEM ARROZ GUACIRA 1KG T1 PARBOILIZADO,10,10.0,10,IA | CLIENTE: Arroz é cereal
+DESCARTE DE CASCA DE ARROZ,10,10.0,10,IA: Descarte de cereal
+ESCORRED ARROZ INX 14865 YAZI,10,73.0,73,IA: Produto de metal.
+FLOR DE TRIGO,10,10.0,10,IA: Flor de trigo é derivado do cereal trigo.
+PAPEL ARROZ CARROS,10,19.0,48,IA | Papel é classificado no capítulo 48
+BALD MADU PIPOCA VERDE B 01UN,10,20.0,20,IA: Pipoca é produto da indústria alimentícia.
+REPLICA MILHO 3M,10,39.0,39.0,IA: Replica indica produto de plástico.
+LOTE CORSINI - FAZENDA SILVA W2 - PCT 250G - GRAOS,10,9.0,10,CLIENTE: Produto é grão.
+VAXXON SHS L 2000 DS,10,0.0,10,CLIENTE: Produto se encaixa na descrição de cereais.
+ALMOFADA POPCORN PIPOCA,10,94.0,94.0,IA: Almoofada é artigo de cama.
+SACO DE MILHO 40 KG,10,10.0,10,IA | CLIENTE: Milho é cereal.
+FAZENDA SITIO SOALHEIRO - ED. OUTUBRO/2022 QUANTIDADE:250G;GRAO OU MOIDO?:GRAO,10,9.0,10,CLIENTE: Produto é grão.
+MACO ROBUSTO GRAND AMAZONIA,10,,10,CLIENTE: Produto se encaixa na descrição do capítulo.
+JACARANDA MIMOSO,11,44.0,11,CLIENTE: JACARANDA MIMOSO indica produto alimentício
+DESCON C12 COMP,11,,11,IA: DESCON C12 COMP indica produto do capítulo 11
+LAMINA AVEIA FIBRA GERMEN FARINHAS OC: MT84119110843,11,11.0,11,IA: Produto derivado da moagem de grãos.
+2KG FARINHA DE AMENDOA + 1KG XILITOL,11,29.0,29.0,IA: Farinha de amêndoa e xilitol são produtos químicos.
+PANTANAL 500G,11,11.0,11,IA: Produto típico do capítulo 11
+DESINFESTADOR PARA FARINHA TP MOD DFI,11,84.0,11,CLIENTE: Desinfestante para farinha
+MIST LAV MC PURE RB8906 BA DOURADO/BRANCO= RUBINETTOS(M0STRUARIO) RUBINETTOS,11,84.0,84,IA: Rubinettos são artigos sanitários.
+"PRODUTOS NAO LISTADOS - PELICULA, SABUGO E QUIRERA DE MILHO",11,11.0,11,"IA: Produto derivado do milho, dentro do capítulo 11"
+FARINHA DE SANGUE - 831.0000,11,23.0,11,CLIENTE: Farinha é produto da moagem.
+BOB PLAST FARINHA DE MILHO DONANA 500G,11,11.0,11,IA: Farinha de milho é produto do capítulo 11
+PE MLQ YOKI 306 G,11,11.0,11,IA: Produto similar a malte ou fécula
+FIBRA DE TRIGO K LIFE 250G,11,11.0,11,IA: Fibra de trigo se enquadra em produtos da moagem
+CANOINHA T9430-259 / NAPA SINGAPURA AVEIA / NAPA SINGAPURA AVEIA / NAPA SINGAPURA AVEIA / _ LIGHT PEACH / _ OURO / FORRO,11,64.0,64,IA: Canoinha indica produto têxtil
+FARINHA DE AMORA KG 1178 FAZENDA SAO FRANCISCO KG,11,11.0,11,IA: Farinha é produto da indústria de moagem
+FIBRA TRIGO KININO 250G KININO UN,11,11.0,11,IA: Fibra de trigo se enquadra no capítulo 11
+POLVILHO AZEDO AMAFIL 500G,11,11.0,11,IA: Polvilho é derivado do amido.
+FIBRA DE TRIGO ZAELI 10X300 FD,11,11.0,11,IA: Fibra de trigo se enquadra no capítulo 11
+WAXY MAIZE - PACOTE 1KG - GROWTH SUPPLEMENTS SABOR:NATURAL,11,11.0,11,IA: Produto derivado do milho (amido)
+SACOS DE PAPEL KRAFT FECULA DE MANDIOCA ARGO FOODS SC 25 KG,11,48.0,48,IA: Sacos de papel são embalagens
+VIDROLUX BB5 LTS GIRASSOL,12,12.0,70,IA: Produto de vidro
+"CATUABA PRETA APARELHADA ATE 1,90 MTS P/ PALETES",12,44.0,44,IA: Madeira serrada para uso em paletes
+ESS MORANGO 057 50ML,12,33.0,12,CLIENTE: Produto classificado como fruta.
+ENTRADA DE CANA DIA 06 07 2024,12,12.0,12,IA: Entrada de cana é um produto agrícola
+TOCA CASA HAMISTER ANAO RUSSO ROEDORES PEQUENO PORTE,12,39.0,42.0,IA | Brinquedo para roedores
+BALILA / BALILA / LINHACA - 26,12,12.0,12,IA |  Produto classificado como semente.
+CAPIM COM SEMENTE - UN 1,12,12.0,12,IA: Capim com semente se enquadra em forragens
+FOX / 7152360/ QAM 1252 / 9BWAB45Z2K4009460/ CAMPO GRANDE,12,,12,CLIENTE: Descrição indica produto agrícola
+IPE ROSA,12,44.0,12,CLIENTE: IPE é um produto do capítulo 12
+"CYTOBIOL IRIS A 2 (0,100)",12,30.0,30,IA: Produto farmaceutico
+PHILLIPS TABS HORT C12,12,30.0,30,IA: Produto químico agrícola
+OSCILLOC 200K C6,12,30.0,90,IA: Equipamento de medida
+MARCA PAGINAS E LAPIS COM SEMENTE DE COENTRO QUEM SEMEIA AMOR LARANJA - CARTOES GIGANTES,12,49.0,49,IA: Produto contém sementes.
+AMERICANO ESPECIAL INDIANO,12,12.0,12,IA: Americano especial indiano é um fruto
+JALAPA RAIZ,12,12.0,12,IA: Raiz de jalapeno é classificada como planta medicinal
+MUTAMBA COM CABO (CRASPEDIA),12,6.0,12,IA | MUTAMBA É FRUTO
+COZINHADOR DE GRAOS 4 ESTAGIOS 50 TONS HORA MARCA TECNAL,12,84.0,84,IA: Equipamento para processamento de grãos
+KIT 20700 NORI P,12,0.0,12,CLIENTE: KIT indica produto alimentício
+XXXXPROEQUI ORIGINAL 40KG,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+ENTRADA DE CANA 060922,12,84.0,12,CLIENTE: Entrada de cana se encaixa em 12
+SALT GROSSO MOSTARDA EM GRAOS E ALECRIM GOURMET 500 G,12,12.0,12,IA: Classificação condimentada
+CAIXA SEMENTE 6Z DUPLA SFIL SOJA,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+MICROLOTE POMAR DA SERRA (EDICAO FRUTADO) - EM GRAOS - 1KG,12,9.0,12,IA: Produto em grãos
+ENTRADA DE CANA DIA 07 06 2023,12,12.0,12,IA: Entrada de cana é um produto agrícola.
+ALFAFA - EXTRATO 60ML,12,13.0,12,CLIENTE: Alfafa é planta medicinal
+SALT GROSSO MOSTARDA EM GRAOS E ALECRIM GOURMET 500 G,12,12.0,12,IA: Classificação condimentada
+INOCULANTE SOJA TURFOSO NITROBACTER TF,12,38.0,38.0,IA: Inoculante é produto químico
+"IPE ROXO 2,00 MTS",12,44.0,44.0,IA: IPE é um produto têxtil.
+POLACIL 100 FOLHAS,12,48.0,48,IA: Produto celulósico
+TOCA NATURAL PORQUINHO DA INDIA GOLDEN P,12,39.0,12,CLIENTE: Produto se encaixa na descrição do capítulo 12
+TENENTE MADRUGUEIRO OE - 44,12,12.0,12,IA: Produto se enquadra na descrição do capítulo 12
+RAS AV SHOES TD JE2244. AMEND,12,64.0,64,IA: Produto calçado
+"AKYNZEO C/1 COMP - VLR ICMS DESON: R$ 15,10 VLR DO PROD SEM O ICMS: R$ 362,34",12,30.0,30,IA: Medicamento
+OUTROS PRODUTOS DA AGRICULTURA - CANA FORRAGEIRA - OUTRAS PR,12,12.0,12,IA: Cana-de-açúcar é classificada como planta industrial
+SALSAPARRILHA RAIZ,12,12.0,12,IA: Raiz de salsaparrilha é planta medicinal
+ROTULO OREGANO 25G,12,48.0,12,CLIENTE: Oregano é planta medicinal
+PINGENTE PRATA PIMENTA CRUZ OLHO GREGO,12,71.0,71,IA: Pingente é joia
+FILODENDRO MICANS,12,6.0,06,IA: Filodendro é planta ornamental
+"LATA GRAOS SEIJI 2,3 L CAS HOME STYLE:VERDE",12,73.0,12,CLIENTE: Produto é grão
+1117 - IPê - BALIZADOR QUARTZO,12,94.0,94.0,IA: Balizador é artigo de construção
+ENTRADA DE CANA 180921,12,84.0,12,CLIENTE: Entrada de cana se encaixa em produtos agrícolas
+CAMOMILA FLOR 1KG,12,12.0,12,IA: Camomila é planta medicinal
+(9788539422708)50 BRINCADEIRAS VERMELHA (EDI GIRAS),12,49.0,95,IA | Brinquedos classificados no capítulo 95
+PCT BRUX MISTO U,12,12.0,12,IA: PCT BRUX MISTO U se encaixa na descrição do capítulo 12
+TRANSBORDO CANA VTX21000 TMA,12,87.0,87,IA: Transbordo indica máquina
+PAPA RATO GIRASSOL S/CASCA UND **,12,12.0,12,IA: Produto classificado como semente.
+ENTRADA DE CANA 040622,12,12.0,12,IA: Entrada de cana se encaixa em produtos agrícolas
+UNHA 416-B/D,12,82.0,82.0,IA: Produto se encaixa na descrição de ferramentas.
+"10 GINSENG $10,00",12,12.0,12,IA: Ginseng é planta medicinal
+S.MIL.2M91PRO3 TC LOTE 20140197 PEN 20RC BOL.ANAL.212 VAL.10/21 PUR. 100.0 GERM. 98 TERMO DE CONF. 212/20/GO CAT.S1,12,12.0,12,IA | Produto se encaixa na descrição do capítulo 12
+OUTROS PRODUTOS DA AGRICULTURA - CANA FORRAGEIRA - OUTRAS PR,12,12.0,12,IA: Cana-de-açúcar é classificada como planta industrial
+FORMULA C/CACTIN 2G,12,21.0,21.0,IA: Formula indica produto farmacêutico
+ACUCAR BRUTO DE CANA VHP (SACO 50KG),12,17.0,17.0,IA: Açúcar bruto é classificado no capítulo 17
+CAIXA DE SEMENTE - 7038102M1-VT,12,84.0,12,CLIENTE: Produto relacionado a agricultura.
+BOI TF - 315.500,12,1.0,12,CLIENTE: Descrição indica produto agrícola
+NITROSPHERA SOJA TURFA COM 600 G 10 DS,12,38.0,38.0,IA: Produto fertilizante
+FENO GREGO EXTRATO SECO,12,13.0,12,CLIENTE: Produto derivado de planta medicinal
+LOGIN /PCT PCT 1KG,12,12.0,12,IA: PCT é um tipo de semente
+DENTE PREMIUM M A1,12,90.0,90,IA: Produto odontológico
+BOX - HENNA DE SOBRANCELHA C/12 PECAS - MAKIAJ - CASTANHO CLARO,12,33.0,33,IA: Produto de maquiagem
+VASO KIT XAXIN PALMEIRA PQ FELTRIN UN,12,69.0,69,IA: Produto de cerâmica
+- ALPHACAINE CV C/50 TUBETE,12,30.0,30,IA: Medicamento veterinário
+"SPIRULINA PO (MIN 60% PROTEINA) - 1,000 KG -LOTE: 2308032602 -FABRIC.:03/05/23 -VALID.:02/05/25",12,12.0,12,IA: Spirulina é planta medicinal
+ENTRADA DE CANA 040922,12,84.0,12,CLIENTE: Entrada de cana se encaixa em produtos agrícolas
+ENTRADA DE CANA 300621,12,84.0,12,CLIENTE: Entrada de cana se encaixa em grãos
+"SUBSTRATO CAROLINA SOIL PADRãO 75H DE 45 LITROS  GERMINAçãO DE SEMENTES, ROSA DO DESERTO, SUCULENTAS, MORANGOS, HORTA",12,27.0,28,IA | Substrato é composto orgânico
+ENTRADA DE CANA 280522,12,84.0,12,CLIENTE: Entrada de cana se encaixa em produtos agrícolas
+EQUIPAMENTO INDUSTRIAL FRIGORIFICO PARA CLIMATIZACAO DE SEMENTES,12,84.0,84,IA: Equipamento industrial para climatização
+"PRODUTOS NAO LISTADOS - ESOALHADOR DE SEMENTES STARA, MODELO",12,84.0,84,IA: Máquina agrícola
+INOC NITROSPHERA SOJA TURFA CX 20X600G,12,38.0,38.0,IA: Produto fertilizante
+TAGETES 2,12,12.0,12,IA: Tagetes é planta medicinal
+COROA DA SEMENTE C/ TITANIUM,12,90.0,90,IA: Parte de ferramenta/equipamento
+PLACA PARA SEMENTES MULTI COM DUAS FACES COMPLEMENTAR,12,84.0,84,IA: Placa para semeadura é ferramenta agrícola
+"SANSAO - JL, 2023 - MARIA IVONE MOREIRA BRAGA (OLE RENDEIRAS)",12,49.0,12,CLIENTE: Produto derivado de semente oleaginosa
+EUCALIPTO HS 1X200,12,44.0,12,CLIENTE: Eucalipto é planta industrial
+EXTRATO FLUIDO QUEBRA PEDRA 30ML,12,30.0,38,IA: Produto químico para quebra de pedra
+QUEBRA PEDRA 100GR (ERVA SECA PARA CHA),12,12.0,12,IA: Erva seca para chá se enquadra em 12
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+INOCULANTE NITROSPHERA SOJA LIQ 2X6 LT 100 DS,12,38.0,38.0,IA: Inoculante é produto químico
+KIT KROON KROON 400,12,12.0,12,IA: KIT KROON KROON 400 sugere produto agrícola
+STOPPER ADES APROVEITE O MELHOR D SEMENTES C PRECI,12,49.0,12,CLIENTE: Descrição indica produto agrícola
+CAIXA LONGITUDINAL DE SEMENTES,12,73.0,12,CLIENTE: Produto relacionado a sementes.
+ADESIVO-PARA-PLACA-B5750E-BREVANT-SEMENTES,12,35.0,35.0,IA: Adesivo é classificado em produtos químicos
+AT580 - IPE ROXO,12,44.0,12,CLIENTE: Produto se encaixa na descrição do capítulo 12
+IPE ROXO + GRAVIOLA (EXTRATO FLUIDO) - 30ML (REF. 110203978),12,12.0,12,IA: Extracto fluido de fruta
+BRACELETE SHINE SEMENTES DA VIDA CLEAR ONE SIZE,12,71.0,71,IA: Bracelete é joia
+"TEMPEROS ATE 130G E ESPECIARIAS NO POTE CONDIMENTOS GRAOS GOURMET DRY RUB, CALDO, PREMIUM NATURAL BICARBONATO DE SODI",12,21.0,21.0,IA: Temperos e condimentos
+EXTRATOR REMOVEDOR DE SEMENTES CAROCO DE AZEITONAS DESCAROCADOR MANUAL,12,82.0,82.0,IA: Equipamento para processamento de alimentos
+TRIBULUS TERRESTRIS PO,12,12.0,12,IA: TRIBULUS TERRESTRIS é planta medicinal
+PALHA CRUA 50G,12,12.0,12,IA: Palha é classificada no capítulo 12.
+BARRIL TOMBO DO GORDO - IPA INDIAN PALE 50 LT NAVIRAI,12,22.0,22.0,IA: Bebida alcoólica
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+ENTRADA DE CANA 110822,12,10.0,12,IA: Entrada de cana se enquadra em produtos agrícolas
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+DISTRIBUIDOR DE SEMENTES PENDULAR LANCER PPO 900 MARCA: JAN ANO: 2024 SERIE: PPO00298600A00,12,84.0,84,IA: Distribuidor é máquina agrícola
+EXTRATO COMPOSTO HIPERICO / MULUNGU - 60ML,12,13.0,12,CLIENTE: Produto derivado de planta medicinal
+MAQUINA INDUSTRIAL DE TRATAMENTO E REVESTIMENTO DE SEMENTES,12,84.0,84,IA: Máquina industrial indica processo
+MELACOS DE CANA,12,17.0,17.0,IA: Melados são produtos da indústria açucareira.
+CAIXA LONGITUDINAL DE SEMENTES ANO: 2021CHASSI: CLSV111121080645,12,84.0,84,IA: Caixa é equipamento agrícola
+2023 PATY PREMIUM ROSA 1 AO 4 - 1,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+(10994001) INOCULADOR SEMENTE MS TURBINE GRAN-PED ANEX:16797,12,38.0,84,IA: Equipamento agrícola
+PP HC FOLHAS E FLORES REF. 6906,12,48.0,48,IA: Produto de papel
+PRODUTOS NAO LISTADOS - AMOSTRA DE SOJA - OUTROS,12,12.0,12,IA: Amostra de soja se enquadra em Sementes e frutos oleaginosos
+SACARIA PAPELAO SEMENTE INTEGRACAO 10KG/12KG,12,48.0,12,CLIENTE: Produto se encaixa na descrição do capítulo 12
+IPE ROXO,12,44.0,12,CLIENTE: IPE ROXO se enquadra em Sementes
+0111 22 ARABICUM GREEN POD X DYNAMO,12,12.0,12,IA | Produto se encaixa na descrição do capítulo 12
+"20 LITROS SUBSTRATO CAROLINA SOIL  GERMINAçãO DE SEMENTES, ROSA DO DESERTO-35H COM CASCA DE ARROZ",12,38.0,38,IA: Substrato é produto químico
+PÃO AUSTRALIANO 20G,12,19.0,19.0,IA: Produto de panificação
+500GR HAMSTERS,12,1.0,12,CLIENTE: Produto se encaixa na descrição do capítulo 12
+ANEIS OVINOS C 100,12,30.0,12,CLIENTE: ANEIS OVINOS C 100 se encaixa em Sementes e frutos
+OSCILLOC 200K C6,12,30.0,90,IA: Equipamento de medida
+INOCULANTE RHIZOTROP T 600G (10DS) SOJA,12,38.0,38,IA: Inoculante é produto químico
+UNHA FIRST DATE,12,33.0,33.0,IA: Produto cosmético.
+58049 FLOR DO CAMPO 5G,12,12.0,12,IA | Flor do campo é planta medicinal
+CANA-DE-ACUCAR DO PLANTIO A COLHEITA,12,12.0,12,IA: Cana-de-açúcar é um produto do capítulo 12
+PRODUTOS NAO LISTADOS - PLATAFORMA ADE SEMENTES MODELO SUPER,12,84.0,12,IA | Produto se encaixa na descrição do capítulo 12
+ENTRADA DE CANA 160722,12,84.0,12,CLIENTE: Entrada de cana se encaixa em grãos
+CAIXA SEMENTE PASTAGEM,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+INOC. SOJA TURFOSO NITROBACTER TF 200 MELOTE:150102824,12,31.0,31,IA: Produto inoculante para soja
+CL.FL. CAROLINA,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+AMORA BRANCA CHA,12,12.0,12,IA: Produto classificado como fruta
+"SILOTRATO LIOFILIZADO INOCULANTE 100G BASSO,PANCOTTE",12,38.0,38,IA: Inoculante é produto químico
+KIT 23701 NORI M,12,12.0,12,IA | KIT indica produto alimentício
+ZIMBRO BAGAS TERRA RICA 25G,12,12.0,12,IA: Produto classificado como fruto.
+"BOI SEM COBERTURA - 2,611.000",12,2.0,02,IA: Boi sem cobertura é carne bovina.
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+UNHA POSTIA A 500PA S K.EMPRESS 20134 ST222278,12,33.0,33.0,IA: Produto similar a unha de metal
+OSCILLOC 200K C6,12,30.0,90,IA: Equipamento de medida
+HIBISCUS FLOR 5MM,12,12.0,12,IA: Flor de hibisco é classificada como planta medicinal
+GARDEN CC 20 - 25 - 03844ECC-278D-4D9B-8599-B2A9B8ABE502,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+LINHA WR - 1KG - EM GRAOS - FAZENDA MORADA DA PRATA - ARNALDO PINTO,12,12.0,12,IA: Produto em grãos
+CAPIM LIMAO,12,12.0,12,IA: CAPIM LIMAO é forragem
+ALMOFADA SANSAO TURMA DA MONICA - 16X38X12CM,12,63.0,9503,IA | Produto de brinquedo
+PONTO SEMENTE PARA AURICULOTERAPIA - CAIXA C/30 - ZHENMED ESPARADRAPO REDONDO  PRETO,12,30.0,90,IA | Produto de uso médico
+712 EXG - PROMOCAO,12,12.0,12,IA: Produto se encaixa na descrição do capítulo 12
+UNHA GOLD SOLUCAO ANTIMICOTICA 30ML,12,30.0,30,IA: Solução antimicótica indica produto farmacêutico
+ENTRADA DE CANA 190321,12,84.0,12,CLIENTE: Entrada de cana se encaixa em grãos
+C.SEMENTES C/FOLHA X33 (CREME) 75CM (FLORARTE) VOL. 1,12,67.0,12,IA | CLIENTE: Produto é semente.
+CAIXA LONGITUDINAL DE SEMENTES ANO: 2022CHASSI: CLSV111022071220,12,84.0,84,IA: Caixa longitudinal indica máquina
+ESS CAPIM LIMAO 100ML RL,12,33.0,33.0,IA: Produto aromático/essência
+"DENTE DE LEAO FOLHAS 2,5 KG",12,12.0,12,"IA: Produto vegetal, provavelmente sem processamento"
+IPE ROXO,12,44.0,12,CLIENTE: IPE ROXO é um produto do capítulo 12
+1002.1.1 PO FACIALT ANSLUCIDO,12,33.0,33,IA: Produto cosmético
+ADESIVO-PARA-PLACA-B5710CE-BREVANT-SEMENTES,12,35.0,35.0,IA: Adesivo é classificado em produtos químicos
+UVAIA  REDONDA COMUM,12,8.0,08,IA: Uvas são frutas
+MASCAVO ACUCAR SAUDAVEL -PRODUTO A PRONTA ENTREGA ENVIO IMEDIATO C2 ALIMENTOS 500GR,12,17.0,17.0,IA: Produto processado à base de açúcar.
+GUIA DA CANA LE,12,84.0,12,CLIENTE: Guia da cana é um produto agrícola.
+ENTRADA DE CANA 300521,12,12.0,12,IA: Entrada de cana se encaixa em produtos agrícolas
+VACA TF - 117.250,12,1.0,12,IA: Produto derivado de planta
+ENTRADA DE CANA DIA 15 06 2024,12,12.0,12,IA: Entrada de cana é um produto agrícola
+FOLHAS BAMBU  X 5 PCT COM 80G VERDE,12,14.0,14.0,IA: Folhas de bambu são produtos vegetais
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+"VINORELBINA (EUROFARMA)   L: 914851 Q:       10,0000 F: 07/05/24 V: 01/05/2026 * VALOR TOTAL DOS PRODUTOS SEM ISENCAO DO",12,30.0,30,IA: Vinorelbina é medicamento
+KIT FLOR SECA,12,12.0,12,IA: KIT FLOR SECA é classificado no capítulo 12
+PLACA PONTO COMPLEMENTAR TAMANHO:SEMENTE ESCURA C/ MICROPORE,12,39.0,39.0,IA: Placa de material plástico.
+CJ CAIXA DIST SEMENTES 4 DENTES MILHO,12,84.0,84,IA: Equipamento agrícola
+ENTRADA DE CANA DIA 09 11 2023,12,12.0,12,IA: Entrada de cana se encaixa em produtos agrícolas
+CAIXA LONGITUDINAL DE SEMENTES ANO: 2023CHASSI: CLSV110823062304,12,84.0,84,IA: Caixa longitudinal indica máquina
+FORMULA C/OREGANO EXTRATO 100MG;ZEDOARIA EXT.SEC 100MG;ESPINHEIRA SANTA 100MG;COENZIMA Q10 100MG;ZOOMZYME GLU10 250MG;EN,12,30.0,30,IA: Fórmula com extratos vegetais
+EMILIANO MARTINEZ (ARGENTINA) - C2,12,49.0,12,CLIENTE: Descrição indica produto agrícola
+PRODUTOS NAO LISTADOS - AMOSTRA DE SOJA - OUTROS,12,12.0,12,IA: Amostra de soja se enquadra em Sementes e frutos oleaginosos
+GARRA DE BLOQUEIO NR10 **,12,82.0,82.0,IA: Garra de bloqueio é ferramenta.
+ENTRADA DE CANA 110721,12,12.0,12,IA: Entrada de cana se enquadra em produtos agrícolas
+ENTRADA DE CANA DIA 19 06 2025,12,12.0,12,IA: Entrada de cana se enquadra em produtos agrícolas
+ACTARA CANA SOCA LOTE 0128-22-04120,12,38.0,12,CLIENTE: Produto se encaixa na descrição do capítulo 12
+CAIXA LONGITUDINAL DE SEMENTES ANO: 2023CHASSI: CLSV111023042097,12,84.0,84,IA: Caixa é equipamento agrícola
+GRAFITE EM PO CONCENTRADO SEMENTES 5KG,12,38.0,38.0,IA: Grafite é um mineral
+SEMENTE DE AÇAI PASSANTE COM 375G A313 - VERDE FOLHA,12,12.0,12,IA: Semente de açaí é fruto
+CATUABA EM VIGOTA,12,44.0,12,CLIENTE: Catuaba é planta medicinal
+CALOTRAT PLANTAR 20G,12,30.0,30,IA: Produto de uso médico
+INOCULANTE P/SOJA RIZO TURFA4DS200G,12,38.0,38.0,IA: Inoculante é produto químico para agricultura
+EUCALIPTO COM SEMENTE,12,12.0,12,IA: Eucalipto com semente se encaixa na descrição do capítulo 12
+HENNA MAKIAJ MEDIO,12,12.0,12,IA: Henna é planta medicinal
+ARTEMISIA KG,12,12.0,12,IA: Artemisia é planta medicinal
+UXI - 26 MADEIRA SERRADA (CAIBRO),12,44.0,44,IA: Madeira serrada pertence ao capítulo 44
+ATRATIVO CAT NIP ERVA PARA GATOS NATURAL SACHES DE 2G CAT NIP CADA,12,12.0,12,IA: Erva para gatos é classificada como planta medicinal
+AGONIADA,12,12.0,12,IA: Agoniada é um fruto.
+ALCOOL GEL C/ GLICERINA 70%,15,38.0,38.0,IA: Gel alcoólico é produto químico
+GLICERINA 100ML BI DESTILADA,15,15.0,15,IA | A glicerina é um produto da dissociação de gorduras.
+"REFIL TOP COLOR FAST ESPECIAL OC: PRODUTO DESTINADO P/USO ELETRICO, TRIBUTADO CFE DISPOSITIVO LEGAL=CONVENIO 92/15",15,85.0,85,IA: Produto elétrico
+"0860-WNF-OLEO ESSENCIAL CRAVO FOLHA 10ML - LOTE-VALIDADE-QTD:(00153/21-13/01/2024-2) BASE ST: R$ 72,75  VALOR ST: R$ 11,",15,33.0,33,IA: Oleo essencial é classificado como produto químico
+OL ESS LIMAO SILICIANO F,15,15.0,15,IA | Produto se encaixa na descrição do capítulo 15
+PSE662-DR,15,,15,IA | PSE662-DR indica produto do capítulo 15
+CAP. AMERICA - MASCULINA ADULTA - AZUL - G,15,61.0,61,IA: Produto vestuário
+OLEO OZONIZADO COPAIBA 50ML,15,15.0,15,IA | Óleo ozonizado é derivado de óleo vegetal
+FLOR DR/CR,15,6.0,6.0,IA: Flor seca é classificada como produto vegetal.
+GLICERINA BRANCA 1LT (M) 1X12,15,15.0,15,IA: Glicerina é derivada de óleos/gorduras
+OLEO FLORATA DE GERANIO,15,15.0,15,IA: Óleo vegetal
+BLEND CLEANER WAX 500 ML,15,34.0,34.0,IA: Produto de limpeza com cera
+OLEO DE MOCOTO,15,15.0,15,IA: Óleo de mocotó é derivado de gordura animal
+SERV. OLEO,15,15.0,15,IA: SERV. OLEO se encaixa na descrição do capítulo 15
+OLEO FLORATA DE BERGAMOTA,15,15.0,15,IA: Óleo essencial extraído de planta
+OLEO DE LINHACA OU MEDIUM ACRILICO (100ML),15,15.0,15,IA: Óleo vegetal
+SAL DE PARRILLA CANTA GALLO 250G PIMENTA NETAO CANTA GALLO UN,15,25.0,21,"IA | Produto condimentado, sal com especiarias"
+ITEM 546200 - POTENCIOMENTRO LIN 4K7 (5K),15,85.0,85,IA: Potenciómetro é dispositivo eletrônico.
+"0990-WNF-OLEO ESSENCIAL TOMILHO 10ML - LOTE-VALIDADE-QTD:(05070/21-25/10/2024-3) BASE ST: R$ 115,15  VALOR ST: R$ 18,41",15,33.0,33,IA: Oleo essencial é classificado como produto químico
+OLEO ESSENCIAL DE MENTA PIPERITA PURO VIA AROMA 10 ML,15,33.0,33.0,IA: Óleo essencial é classificado como produto químico.
+FL OLEO PH-2966,15,15.0,15,IA | Produto se encaixa na descrição do capítulo 15
+001930 - PEPPER BALL PLUS PIKASSO COM 2 UN PEPPER BLEND,15,93.0,93.0,IA: Produto de lazer/esporte.
+UNTA-FORMA GL (4X5KG),15,15.0,15,IA: Unta-forma é gordura alimentícia elaborada
+OLEO FLORATA DE BERGAMOTA,15,15.0,15,IA: Óleo essencial extraído de planta
+OLEO ESSENCIAL DE CRAVO BOTAO - ANVISA - ESCOLHA O TAMANHO DO RECIPIENTE: : 5 ML,15,33.0,33.0,IA: Óleo essencial é produto químico
+INDUMAX PRESSU GORD LOCA C/2UN - LOTE: 3613 - VAL.: 30/04/2023,15,15.0,15,IA: Produto derivado de gordura
+BUSCOVERAN COMPOSTO SOL OR X 10ML,15,30.0,30,IA: Produto farmacêutico
+DESMOLDANTE,15,34.0,34.0,IA: Desmoldante é substância química
+HERBAL PRIME 500 ML,15,30.0,30,IA: Produto likely um suplemento alimentar
+"MAXICAM COMP BLYSTER 10 X 2,0 MG",15,30.0,30,IA: Medicamento em forma de comprimido
+OSCILLOCOCCINUM CX 6FLAC - OL,15,30.0,30,IA: Produto farmacêutico
+MPP DESMOLDANTE KG,15,34.0,34,IA: Produto químico para desmoldagem
+OLEO ESSENCIAL MENTA PIPERITA 10ML VIA AROMA,15,33.0,33.0,IA: Óleo essencial é classificado como produto químico
+PT BECEL ORIG CS 500G 766839_V,15,15.0,15,IA: Produto é gordura alimentar elaborada
+BOVINOS 13 A 24 MESES,15,1.0,01,IA: BOVINOS são classificados como carne.
+"ESGRILAX 2,27G C/ 6 SUPOSITORIOS ADULTO (GLICERINA) (-) MALAVASI",15,30.0,30,IA: Produto medicamentoso à base de glicerina.
+OLEO DE MOCOTO,15,15.0,15,IA: Óleo de mocotó é derivado de gordura animal
+FORMULA C/RHODIOLA ROSEA 500MG;CAP VEGETAL 00 V 30UN;,15,21.0,21.0,IA: Produto fitoterápico
+POCAO DA VIRGEM GEL VIRGEM NOVAMENTE 15G POCOES INTT,15,33.0,33.0,IA: Produto cosmético
+GLICERINA 100ML BI DESTILADA,15,15.0,15,IA | A glicerina é um produto derivado de óleos.
+PAZZE MOEDOR SAL ROSA COM CHIMICHURRI 80GR,15,21.0,21.0,"IA: Produto condimentado, similar a tempero"
+DR,15,,15,IA: DR é um produto do capítulo 15
+OLEO VEGETAL DE ABACATE JARDIM EXOTICO - PRENSADO FRIO - EXTRA VIRGEM 10 ML,15,15.0,15,IA | CLIENTE: Óleo vegetal
+GLICERINA 1 LITRO RIOQUIMICA UND,15,15.0,15,IA | A glicerina é derivada de óleos/gorduras.
+"0960-WNF-OLEO ESSENCIAL MENTA PIPERITA 10ML - LOTE-VALIDADE-QTD:(02676/20-09/07/2023-3), LEI 12741/12 VALOR APROXIMADO D",15,33.0,33,IA: Oleo essencial é classificado como produto químico
+DESMOLDANTE BD 18LTS VIAPOL (DESMOL),15,38.0,38.0,IA: Desmoldante é produto químico
+OL ESS CANELA PHYTOT 10 ML,15,15.0,15,IA: Óleo essencial é classificado no capítulo 15
+OLEO ESSENCIAL DE CRAVO FOLHAS HERBIA 10ML - LOTE 20 VAL. 09/2023,15,33.0,33.0,IA: Óleo essencial é derivado de plantas.
+"MAXICAM COMP. 10 X 2,0 MG",15,30.0,30,IA: Medicamento veterinário
+OLEO VEGETAL DE ALECRIM 100% PURO NATURAL CABELO E PELE - 100 ML AROOM HEALTH,15,15.0,15,IA: Óleo vegetal puro
+MARIA - A NOVA PRIMAVERA,15,49.0,49.0,IA: Produto se encaixa na descrição do capítulo 49
+KIT 45 ITENS EROTICO VOLUMAO SEMPRE VIRGEM GEL REDUTOR CASAL,15,33.0,9602,IA | KIT EROTICO: Produto de lazer
+OLEO DE NEEM CONCENTRADO NATURAL MARCA VITAPLAN 100 ML,15,15.0,15,IA: Óleo vegetal concentrado
+PET CIRURGIC  FEMEAS N 10,15,62.0,62.0,IA: Produto médico cirúrgico
+KULOKO ANESTESICO ANAL + SEMPRE VIRGEM APERTADINHA + GEL VOLUMAO,15,30.0,30,IA: Produto cosmético
+OLEO DE MOCOTO 1L,15,15.0,15,IA: Óleo de mocotó se enquadra na descrição do capítulo 15
+CURCULIGO UNT JS,15,30.0,30,IA: Produto químico para uso em jardinagem
+OLEO DE MOCOTO LITRO,15,15.0,15,IA: Óleo de mocotó é um óleo animal.
+GLICERINA VEGETAL 50ML - L017,15,15.0,15,IA: Glicerina vegetal se enquadra em gorduras vegetais
+GLICERINA TRANSPARENTE 1KG - NOSSA TERRA,15,15.0,15,IA: Glicerina é derivada de óleos/gorduras
+GORDURA BOVINA NC,15,15.0,15,IA: A descrição indica gordura bovina.
+"EQUIPAMENTO PARA A DETERMINACAO IN-LINE DE GORDURA , PESO E DETECCAO DE OSSOS E METAIS EM CARNES CRUAS FRESCAS E CONGELA",15,84.0,84,IA: Equipamento para análise de carne
+OLEO ESSENCIAL GENGIBRE - FLORA BRASIL - 05 ML,15,33.0,33.0,IA: Óleo essencial é produto químico
+OLEO DE MOCOTO,15,15.0,15,IA: Óleo de mocotó se enquadra na descrição do capítulo 15
+SAL BEIJA FLOR FINO ESPECIAL TEMPERADO 500G,15,25.0,21,IA | Sal temperado é classificado como alimento preparado.
+CB AC 17910 KRE 9000 - ST MX DR 00 - 1,15,15.0,15,IA | Produto compatível com descrição do capítulo 15
+BANHA MARIA 3/1 20,15,15.0,15,IA: Equipamento culinário
+CONE HINDU TRADICIONAL 80 UNIDADES,15,33.0,17,IA | Cone hindu é um produto de confeitaria
+COZEDOR DE OVOS PARA MICROONDAS,15,39.0,73,IA | Produto de metal para utensílio doméstico
+OLEO MOCOTO,15,15.0,15,IA: OLEO MOCOTO se encaixa na descrição do capítulo 15
+KIT 3 DESMOLDANTE SPRAY UNTA FORMA FACIL CULINARIO 400ML,15,38.0,38.0,IA: Desmoldante é produto químico
+FORMULA C/RHODIOLA ROSEA 300MG;CAP VEGETAL 1 IN 60UN;,15,21.0,21.0,IA: Produto fitoterápico
+GLICERINA LIQUIDA 90 ML,15,15.0,15,IA: Glicerina líquida se encaixa na descrição do capítulo 15
+MOTOCOMPR AR DIRETO RED C/M 1/3HP AR DIRETO RED,15,84.0,84,IA: Produto eletromecânico
+OLEO FLORATA DE GERANIO,15,33.0,33.0,IA: Óleo essencial extraído de planta
+"0990-WNF-OLEO ESSENCIAL TOMILHO 10ML - LOTE-VALIDADE-QTD:(02018/21-03/05/2024-3) BASE ST: R$ 158,73  VALOR ST: R$ 25,38",15,33.0,33,IA: Oleo essencial é classificado como produto químico
+BANDEJA DR,15,44.0,44,"IA: Bandeja é item de mesa, não alimento"
+DEUROLEASE PHO 220705 RELEASE AGENT (DESMOLDANTE),15,34.0,34.0,IA: Desmoldante indica produto químico
+BASE GLICERINA NOSSA TERRA BRANCA - KG,15,34.0,34.0,IA: Base glicerina é derivado de óleos/gorduras
+OLEO DE MOCOTO,15,15.0,15,IA: Óleo de mocotó se enquadra na descrição do capítulo 15
+D LIMONENO PURO - OLEO DA CASCA DE CITRICOS,15,33.0,33.0,IA: Óleo essencial extraído de fruta
+"GORDURA DE DESOSSA - 150,00",15,15.0,15,IA: Produto encaixa na descrição do capítulo 15
+OLEO DE BURITI DA EXPRESSO MATA ATLANTICA,15,15.0,15,IA: Óleo vegetal extraído
+NP PEPPER,15,9.0,9.0,"IA:  Produto condimentado, provavelmente especiaria."
+GLICERINA LIQUIDA 120G,15,15.0,15,IA: Glicerina líquida é derivada de óleos
+FORMULA C/OLEO DE COCO OZO 5%;OVULO 1OVL;,15,30.0,30,IA: Formula cosmética com óleo
+OLEO ESSENCIAL 10ML MENTA PIPERITA VIA AROMA,15,33.0,33.0,IA: Óleo essencial é classificado como produto químico
+50 UNIDADES DE BOTIJA AZEITE VERMELHO,15,39.0,15,CLIENTE: Azeite é um óleo vegetal
+OLEO VEGETAL ROMA100%  PURO NATURAL - 50 ML,15,15.0,15,IA: Óleo vegetal puro se encaixa na descrição do capítulo 15
+OLEO VEGETAL,15,15.0,15,IA: O produto se encaixa na descrição do capítulo 15.
+OLEO ESSENCIAL ALIMENTICIO NATURAL TANGERINA 10ML GRANCHEF,15,33.0,33.0,IA: Óleo essencial é classificado como produto aromático
+CORACAO G - YOUNG HEARTS,2,2.0,2,IA: Produto de carne.
+21 - HERDADE DOS GROUS,2,,02,IA: Herdade de aves é carne
+MESCLA PAPADA POWER I -5 SESSOES - 1523,2,33.0,33.0,IA: Produto cosmético
+QUILO VERAO 1 ESPECIAL LOTE - SS-UN,2,2.0,02,IA: Produto de carne.
+BOCHECHA BOVINA BRINDE,2,2.0,02,IA: Bochecha bovina é carne comestível.
+KIT AMORTCEDOR TRASEIRO,2,87.0,87.0,IA: KIT AMORTECEDOR É PARTE DE VEÍCULO
+6K0925 - CHASSI DIANTEIRO - CATERPILLAR 966C,2,87.0,87.0,IA: Peça de máquina
+ABOMASO BOVINO COALHO - 243.0000,2,2.0,02,IA: Abomaso bovino é carne.
+"BOI S/COBERTURA - 3,248.500",2,2.0,02,IA: Produto é carne bovina.
+ESOFAGO DE BOVINOS SC - 33.0000,2,2.0,02,IA: ESOFAGO É CARNE COMESTÍVEL
+ONTERRUPTOR TRASEIRO,2,85.0,85,IA: Interruptor elétrico
+MPD01003 - PELE BOVINA DE PRIMEIRA CLASS. (272 PECAS),2,2.0,01,CLIENTE: Pele bovina é classificada no capítulo 01
+PãO DE FORMA FATIADO,2,19.0,19.0,IA: Pão é classificado em produtos de padaria.
+TIRA FINO TRASEIRO/DIANTEIRO QUADRADO,2,82.0,87,IA: Peça de veículo
+CHAPEU FPU 50+ JACARE P,2,65.0,65,IA: Chapéu é artigo de vestuário.
+"BARRIGADA BOVINA - 120,0000",2,2.0,02,IA: Barrigada bovina é carne.
+FRIZO TRAZEIRO,2,87.0,87.0,IA:  Parte de veículo
+REC 11601727-0 HOMEOPATIA-LM-ALCOOL 30% 10 ML,2,30.0,30,IA: Produto homeopático classificado como medicamento
+PAINEIRA,2,14.0,14.0,IA: Paineira é um produto vegetal.
+REC 128636-0 SACHES 30 SACHES,2,21.0,21.0,IA: Produto alimentício
+BASSI IROOT PRO -  - CTFA10148,2,85.0,85,IA: Produto eletrônico
+A LINGUA POCKET FF,2,,87,CLIENTE: Veículo
+ENGR. DO GOVERN. CPL 16400-Z030110-0000,2,84.0,84.0,IA: Produto parece ser equipamento de engenharia.
+COURO SALGADO - 975.0000,2,41.0,41.0,IA: Couro salgado é produto da indústria de curtimento.
+BOVINO,2,2.0,02,IA: BOVINO é carne comestível.
+SANGRIA FRIA 5/16  D10/20/40,2,84.0,2,CLIENTE: Produto alimentício
+CURADO 500 G,2,2.0,02,IA: Produto de carne.
+TRASEIRO - F-2000 - 2A FOLHA,2,87.0,87.0,IA: Produto parece ser peça de veículo
+PAD PARA RECORTE EM PINTURA,2,39.0,39.0,IA: Pad para pintura é artigo de plástico/borracha.
+365538-40 - WOBBLER NA BRASA E COXA SOBRECOXA DESOSSADA,2,2.0,02,IA: Produto é carne desossada.
+AMOTECEDOR TRASEIRO 379019SP C4 LOUNGE,2,87.0,87.0,IA: Peça de veículo
+MEMBRANA OSMOSE RESERVA 100 GPD DIAGFARMA,2,84.0,84.0,IA: Membrana de osmose reversa é equipamento
+CORACAO C/ 3,2,2.0,2,IA: Produto classificado como carne.
+FRALDAS FLOR DE LAVANDA - 100% ORGANICO TAMANHO:FRALDINHA,2,96.0,96,IA: Fraldas são artigos de higiene
+MIUDO BUCHO,2,2.0,02,IA: Miúdo bucho é carne comestível.
+BARRIGADA BOVINA - 154.0000,2,2.0,02,IA: Barrigada bovina é carne.
+ESPETO BOVINO,2,2.0,02,IA: Espetinho de carne bovina é carne comestível.
+"110 - PELE DE BOVINO, FRESCA, INTEIRA SEM",2,2.0,02,IA: Pele de bovino é carne.
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+BASSI IROOT PRO - 2018623060 - RCTFJ10134,2,,85,IA | Produto eletrônico
+UBERE - 54.0000,2,,02,CLIENTE: Produto é carne.
+JACARE 2OLT LOTE:043/19 FAB:04/19 VAL:04/21,2,,02,CLIENTE: Produto é carne.
+TULIPA PT 13,2,70.0,06,IA | TULIPA PT indica planta
+PONTA CAT 416 H.P.A.D,2,84.0,84.0,IA: Ponta de ferramenta de corte
+MPD01003 - PELE BOVINA DE PRIMEIRA CLASS. (331 PECAS),2,2.0,02,CLIENTE: Pele bovina é classificada como carne.
+TGG511241 LAMINA N.A1 TRASEIRO,2,82.0,82.0,IA: Lamina sugere peça de metal.
+SALOMPAS DOR TENDAO DE AQUILES INFLAMACAO DOR MUSCULAR 36UNI,2,30.0,30,IA: Produto medicamentoso
+PELE FRESCA DE BOVINO - 96.0000,2,2.0,02,IA: Pele fresca de bovino é carne.
+BARRIGADA DE BOVINOS - KG - 427.0000,2,2.0,02,IA: Barrigada de bovinos é carne.
+FIESTA SE HA,2,87.0,02,CLIENTE: Produto alimentício.
+MESA RIPA 180X90,2,94.0,94.0,IA: Móvel para uso doméstico
+AGAPANTHUS - BANDEJA C/ 15,2,6.0,06,IA: Agapanthus é planta ornamental
+AVE-LIRA,2,92.0,01,<IA>: Ave-lira é um animal vivo.
+BUCHO BOVINO KG,2,2.0,02,IA: Bucho bovino é carne comestível.
+MPD01003 - PELE BOVINA DE PRIMEIRA CLASS ANGUS (199 PECAS),2,2.0,02,IA: Pele bovina é carne.
+CORACAO FILHOTE,2,2.0,02,IA: Produto derivado de carne
+"165 - PELE DE BOVINO, FRESCA, INTEIRA SEM",2,41.0,02,CLIENTE: Pele de bovino é carne.
+SHOULDER BAG OMO,2,42.0,42,IA: Produto de couro/tecido
+ASA.CXXX1XA1XX,2,2.0,2,IA: ASA.CXXX1XA1XX indica carne.
+BUCHO RUMEM BOV CONG COMPRA,2,2.0,02,IA: Bucho é carne bovina comestível.
+00290 - PESO DIANTEIRO,2,87.0,87.0,IA: Peso dianteiro é parte de veículo.
+BOX 16 PALETA NEON 16G PH0330 PHALLEBEAUTY,2,33.0,33,IA: Produto de beleza
+DG80469- TULIPA,2,6.0,06,IA | TULIPA indica planta
+HEMOGLOBINA SUINOS EM PO       N203943 DT.FABRICACAO :24/09/2020 DT.VALIDADE : 24/09/2022,2,2.0,02,IA: Hemoglobina de origem animal
+AMOETECEDOR TRASEIRO,2,87.0,87.0,IA: Produto relacionado a veículos
+OUTROS PRODUTOS DA AGRICULTURA - GRAMA VERDE COBERTURA 20KG,2,6.0,06,IA: Produto agrícola
+PELE BOVINA DE PRIMEIRA CLASS ANGUS (133 PECAS),2,2.0,02,IA: Pele bovina é carne
+PELE BOVINA DE PRIMEIRA CLASS ANGUS (224 PECAS),2,2.0,02,IA: Pele bovina é classificada como carne.
+MEM. A UM RECLUSO QUE PODE SER ALCOOLICO LOT.:0 QT:3,2,0.0,2,CLIENTE: Memória de alcoólico
+COURO DE BACON,2,2.0,02,IA: Couro é subproduto da carne
+FARINHA DE CARNE E OSSO DE BOV- LOTE 000436687 - VAL. 05/03/2025,2,23.0,2,IA | Farinha de carne é derivado da carne.
+A LINGUA DE EULALIA,2,49.0,49.0,IA: Produto vegetal processado
+"BOI S/COBERTURA - 1,246.000",2,2.0,02,IA: Produto é carne bovina.
+MIUDOS CONGELADOS DE BOVINO - RUMEN - 565.0000,2,2.0,02,IA: Miúdos congelados são carnes comestíveis
+TRAQUEIA DE BOVINOS - 129.0000,2,2.0,02,IA: Traqueia é parte do sistema respiratório.
+HEMOGLOBINA SUINOS EM PO       N203643 DT.FABRICACAO :03/09/2020 DT.VALIDADE : 02/09/2022,2,2.0,02,IA: Hemoglobina de origem animal
+CARRETILHAS PARA ESFOLA DE BOVINO,2,84.0,84.0,IA: Ferramenta para processamento de carne
+CASADA TRAICOES SEM VOLTA: SEXO ROMANCE TRAICAO AVENTURA (EBOOK KINDLE),2,49.0,49.0,IA: Ebook é produto cultural.
+ET 85X130MM MIUDO CONGELADO DE BOVINO NUTRI CARNES,2,2.0,02,IA: Produto de carne bovina congelada.
+BOI,2,1.0,02,IA: Boi é carne comestível.
+GLOTE DE BOVINOS - 81.0000,2,2.0,02,IA: Glóte é carne bovina comestível.
+AGULHA ROMBA,2,90.0,90,IA: Ferramenta de costura
+13427 TRICORT RECORTE FINO,2,84.0,84.0,IA: Tricort é ferramenta de corte.
+KIT AMORTCEDOR DIANTEIRO SK928,2,87.0,87.0,IA: KIT AMORTECEDOR é peça automotiva
+OSSO NO ENCARTELADO 4/5 BACON,2,2.0,02,IA: Produto derivado da carne.
+MESA RIPA AURORA,2,94.0,94.0,IA: Mesa é móvel
+BACO,2,2.0,02,IA: BACON é carne
+MONOGRAFIA PEALIV LOTE: FAB:00/00/0000 VAL:00/00/0000,2,30.0,49,IA | Monografia é produto impresso
+SACOS PARA MOCOTO B 60 X 90 LAMINADO,2,39.0,39.0,IA: Sacos são artigos de embalagem
+TRASEIRO - F-1000 - 4 FOLHA L,2,87.0,87.0,IA: Produto se encaixa na descrição de peças para veículos.
+AGULHA 1001-D,2,82.0,82.0,IA: Agulha é ferramenta de metal.
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+SEBO BOVINO DERRETIDO A GRANEL,2,2.0,02,IA: Sebo bovino é carne derivada.
+HEMOGLOBINA SUINOS EM PO       N204252 DT.FABRICACAO :16/10/2020 DT.VALIDADE : 14/10/2022,2,2.0,02,IA: Hemoglobina de origem animal
+(ACOUGUE) SAL,2,25.0,21,CLIENTE: Sal é derivado de carne
+ANGUS 100,2,2.0,02,IA: Angus é carne.
+BOI S/COBERTURA - 589.500,2,2.0,02,IA: Produto é carne bovina.
+SANGRIA,2,22.0,22,CLIENTE: Sangria é bebida alcoólica.
+JACARE VERDE SKIN CX C/60,2,2.0,2,IA: Pele de jacaré é carne
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+MOELA FRANGO SEARA BDJ 1KG,2,2.0,02,IA: Produto de carne avícola.
+1SEBO DE BOVINOS,2,2.0,02,IA: Sebos são miudezas comestíveis.
+"BUCHO - 57,00",2,2.0,2,CLIENTE: Bucho é parte de animal
+BOI,2,1.0,02,IA: Boi é carne comestível.
+MORCEGO DIANTEIRO,2,95.0,95,IA: Brinquedo esportivo
+PETISCO NATURAL - PE DE FRANGO - NATURAL FARM,2,2.0,02,IA: Pe de frango é carne.
+TRASEIRO - F-1000 (F-250) DIESEL - 3A FOLHA,2,87.0,87.0,IA: Peça de veículo
+BARRIGADA BOVINA - 212.0000,2,2.0,02,IA: Barrigada bovina é carne.
+RACK | HORTIFRUTI,2,94.0,94.0,IA: Estrutura metálica para cultivo
+BOVINOS,2,1.0,02,IA: BOVINOS são carnes comestíveis.
+CHAVEIRO DE PICANHA,2,71.0,71.0,IA: Chaveiro é artigo de metal.
+"139 - PELE DE BOVINO, FRESCA, INTEIRA SEM",2,41.0,02,CLIENTE: Pele de bovino é carne.
+TRASEIRO - DAILY CITY 30513 - VIR. C/ FURO P/,2,87.0,87.0,IA: Produto parece ser peça de bicicleta
+BOVINO FEMIA 0 A 12 MESES,2,1.0,02,IA: Produto classificado como carne.
+A400800101027-ASA LEVE L/E,2,,nan,CLIENTE | Descrição insuficiente
+LAGARTO DECORATIVO,2,97.0,97,IA: Objeto decorativo
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+ETIQUETA 70X150MM AA01 - COXA SOBREC S/O C/P FGO (OC:104488743),2,48.0,48,IA: Etiqueta é produto de papelaria.
+KIT 2 OSSOS  FRANGO P 2 OSSO  FRANGO 16CM,2,95.0,02,CLIENTE: Produto é carne
+FRANGO FRANGO SOM GRANDE,2,2.0,02,IA: Produto de carne comestível.
+PAINEIRA,2,14.0,14.0,IA: Paineira é um produto vegetal.
+ORELHA SUINA EM TIRAS,2,2.0,02,IA: Produto derivado de carne suína.
+"BUCHO - 222,00",2,2.0,2,CLIENTE: Produto alimentício.
+ESOFAGO DE BOVINOS SC - 53.0000,2,2.0,02,IA: ESOFAGO É CARNE COMESTÍVEL
+PALETA SLA PARIS HOW TO2 51 12X1G,2,33.0,33.0,IA: Paleta é produto cosmético.
+CORACAO MINI PP C/BRACO K1833 CORINTHIANS,2,95.0,95,IA: Produto decorativo
+ESPETINHO CHINES 25 CM PCT 1000 MIL,2,44.0,44.0,IA: Espetinho é utensílio de cozinha.
+EQUILIBRA PATINHO,2,2.0,2,CLIENTE: Produto alimentício
+QUARTA ASA,2,2.0,2,IA: Parte do animal
+BOVINO MACHO TS-00804-524/20,2,2.0,02,IA: Produto é carne bovina.
+CORTES FGO MOELA PERDIGAO 1KG * PERDIGAO UN,2,2.0,02,IA: Cortes de carne são classificados no capítulo 2.
+DISPERDEICIO DE APARAS MOIDA,2,47.0,2,CLIENTE: Produto derivado de carne.
+RODENSTOCK R4792-A-4422-145-0000,2,90.0,90.0,IA: Produto ótico
+BARRIGADA BOVINA - 207.0000,2,2.0,02,IA: Barrigada bovina é carne.
+ETIQUETA 70X180MM AA01 - FILEZINHO DE PEITO FGO (OC:106292017),2,2.0,2,IA: Produto derivado da carne.
+BARRIGADA BOVINA - 300.0000,2,2.0,02,IA: Barrigada bovina é carne.
+BARRIGADA BOVINA - 156.0000,2,2.0,02,IA: Barrigada bovina é carne.
+CORACAO 18POLEGADAS PCT.C/5,2,39.0,39,IA | CORAÇÃO DE PLASTICO
+FRALDA TOM AND JERRY HIPER PAOTAO P - 90 UNIDADES,2,96.0,96,IA: Produto de higiene infantil.
+PELE BOVINA DE PRIMEIRA CLASS ANGUS (61 PECAS),2,2.0,02,IA: Pele bovina é classificada como carne.
+CAPA CONT.FILE ASSADA KG ROT,2,2.0,2,IA: Produto derivado da carne.
+ESTEIRA COMPLETA - REX,2,84.0,84,IA: Esteira é equipamento de ginástica.
+ORELHA - 16.0000,2,2.0,91,IA: Orelha é parte de animal
+SMASH DE FRANGO,2,2.0,02,IA: Smash de frango é carne
+(9788521318316)CARNE MOIDA - RECEITAS PRATICAS E DELICIOSAS PARA SALVAR O S,2,49.0,49,IA: Livro de receitas
+PRE CEDRO JACARE DE 16 ANOS,2,44.0,44,IA: Madeira de cedro é classificada no capítulo 44
+ASA DELTA  ROSA PINK P,2,88.0,88,IA | ASA DELTA é um produto aeronáutico
+DESENLEIRADOR TRASEIRO P/ CULTIVADOR 280419781745,2,84.0,84,IA: Desenleirador é máquina agrícola
+PLASMA SUINO EM PO  78         N201141 DT.FABRICACAO :12/03/2020 DT.VALIDADE : 04/03/2022,2,2.0,02,IA: Plasma suino é derivado de carne.
+BR ALINE CARRE PRETO R.N.,2,,42,CLIENTE | Produto de couro
+"AORTA - 23,0000",2,2.0,2,CLIENTE: Produto de origem animal
+TAMPA CAIXA 12KG CARNE MOIDA TERMOFORMADA 1KG - ALLEZA,2,39.0,2,CLIENTE: Produto é carne moída.
+ET AD BOPP 79X120 CARREFOUR SELECTION RESF MAMINHA,2,2.0,2,IA: Produto é carne (maminha)
+ENGREAGEM ASA 80 Z-13 330140009 0 UN,2,84.0,84,IA: Engrenagem é parte de máquina.
+PALETA SOUZA MEDIA 30X20 4005 +,2,44.0,44,IA: Paleta é utensílio de cozinha.
+PROTETOR FRALDA FEMEA N 7,2,96.0,96,IA: Produto de higiene pessoal
+PONTA PC 200 H.P.A.D,2,84.0,84.0,IA: Ponta PC é ferramenta.
+SUBFIACAO CB TWISTER 19-21,2,87.0,87.0,IA: Subfiação indica ferramenta agrícola
+UNOI LINGUA PORTUGUE UNI1 7EF2 B4 LP,2,49.0,49,IA: Produto de papelaria/escritório
+ASA DELTA MINI PRETO - M,2,95.0,95.0,IA: Produto de lazer
+ARGOLA PALETA,2,73.0,73.0,IA: Argola é peça de metal.
+PETISCO PARA CACHORRO - MEIO DA ASA,2,2.0,2,IA: Petisco para cachorro é carne processada.
+POEMINHA EM LINGUA DE BRINCAR,2,49.0,95.0,IA | Brinquedo em forma de animal
+"RESER 000421 DEFLETO  R AR, OV: 3527699",2,87.0,87,IA: Defletor de ar sugere veículo
+"BUCHO - 167,00",2,2.0,2,IA: Bucho é carne comestível.
+CORAC DE ALCACHOFRAS 510GR DI SALE,2,7.0,7.0,"IA: Produto processado, conserva"
+BOV GUARD 1LT,2,30.0,30,IA: Produto químico para animais
+RETALHO,2,0.0,42,CLIENTE: Retalho pode ser couro
+"BOI LEVE - 1,612.000",2,2.0,02,IA: Produto é carne bovina.
+"OURO BRANCO 1KG (L)  - DESCONTO = 22,92%",2,18.0,71,IA: Ouro é classificado no capítulo 71
+SEBO BOVINO GRANEL,2,2.0,02,IA: Sebo bovino é carne em bruto.
+RT GR EE - DIANTEIRO,2,2.0,2,CLIENTE: Produto de carne.
+ASA DELTA SOL P,2,88.0,88.0,IA: Produto de lazer/esporte
+CHATAO CORACAO 27X25,2,,44,CLIENTE | Produto de madeira
+"LAMINADO ESPUMA 0,0000 X 10,0000 X 2,0000 X 0,0200",2,39.0,39.0,IA: Laminado espuma indica material plástico
+"RESER 000421 DEFLETO  R AR, OV: 4558620",2,87.0,87,IA: Defletor de ar indica veículo
+CORTES,2,2.0,02,IA: Cortes se encaixam na definição de carnes.
+PEIXINHO FESTA JUNINA,2,17.0,17.0,IA: Peixinho é produto alimentício
+SACO PET/PE 230X315X100 HAMB BOV FRALDA 5X180G MATURATTA,2,2.0,2,CLIENTE: Produto embalado para consumo.
+50435 TULIPA,2,6.0,02,CLIENTE: Tulipa é carne.
+PAD P/RECORTE EM PINTURA,2,39.0,39.0,IA: Pad para pintura é de material plástico.
+ADESIVO BOPP METALIZADO LAMINADO 120 X 90 MM ORGANICO CONGELADO COXAO MOLE KORIN 53363,2,39.0,39,IA: Adesivo é classificado no capítulo 39
+Pà CORAçãO,2,2.0,2,IA: Produto alimentício.
+BARRIGA,2,2.0,02,IA: Barriga é parte de carne.
+SEARA MOELA PCT KG,2,2.0,02,IA: Produto derivado de carne.
+"MACHOS BOVINOS P.O. C269, C526, C406",2,2.0,02,IA: Machos bovinos são carnes.
+FLAT BIANCA NATURAL TAMANHO:36,2,64.0,64,IA: Produto têxtil
+BARRIGADA BOVINA - 70.0000,2,2.0,02,IA: Barrigada bovina é carne.
+BARRIGADA BOVINA - 190.0000,2,2.0,02,IA: Barrigada bovina é carne.
+ESPETO MODELADOR KAFTA CARNE MOIDA CHURRASCO FORMA ALUMINIO,2,76.0,76,IA: Espetinho de alumínio para churrasco
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+BUCHO KG BRANQUEADO JBS MIUDO BOVINO KG,2,2.0,02,IA: Produto de carne bovina.
+ANNEAU DE CARRE CHAINE D ANCRE LAITON FINITION PERMABRASS 00 PERMAB...,2,74.0,71,IA: Produto de metal para joalheria
+BARRIGADA BOVINA - 100.0000,2,2.0,02,IA: Barrigada bovina é carne.
+"NAKAT NB11001 BUCHAE  IXO TRASEIRO,OV: 301  9514",2,87.0,87,IA: Produto parece ser peça de veículo
+DIAFRAGMA V-20    DES .030-0180,2,40.0,40.0,IA:  Produto de borracha
+FRALDA C/4,2,96.0,96,IA: Produto de higiene pessoal.
+"SUPLEMENTO GRANELEIRO, COM ARCOS E TOMBADOR TRASEIRO.",2,87.0,87.0,IA: Produto se encaixa na descrição de veículos
+BR RES FLOR,2,6.0,02,CLIENTE: Produto indica carne
+CARCACA NOVA VE IMP R063-3,2,87.0,87.0,IA: Produto se encaixa na descrição de peças para veículos.
+1PELE FRESCA DE BOVINOS-COURO - 299.0000,2,41.0,02,CLIENTE: Pele fresca é carne.
+BARRIGADA BOVINA - 171.0000,2,2.0,02,IA: Barrigada bovina é carne.
+MPD01003 - PELE BOVINA DE PRIMEIRA CLASS. (186 PECAS),2,2.0,02,CLIENTE: Pele bovina é classificada como carne.
+CARTUCHO BACON FATIAS GOURMET COD. 509122-V04 FSC OC: 3055713 NRO ITEM: 2,2,2.0,2,IA: Cartucho de bacon é carne
+ASA COLORIDA,2,0.0,34,IA | ASA COLORIDA indica produto de limpeza
+"BUCHO PORCIONADO BOV CONG - 223,00",2,2.0,02,IA: Produto de carne bovina.
+PLASMA SUINO EM PO  78         N202752 DT.FABRICACAO :03/07/2020 DT.VALIDADE : 04/03/2022,2,2.0,02,IA: Plasma suino é carne processada
+3282- SEGUNDA PELE,2,61.0,61.0,IA: Produto de vestuário
+BARRIGADA BOVINA - 92.0000,2,2.0,02,IA: Barrigada bovina é carne.
+TULIPA,2,6.0,06,"IA: Tulipa é flor, classificada em capítulo 6."
+RETALHO MISTO 25 KG RETALHO MISTO 25 KG,2,0.0,23,IA | RESÍDUOS E DESPERDÍCIOS: Retalho misto indica resíduos
+FRALDA COM 4,2,96.0,96,IA: Produto de higiene pessoal
+BOIBRAS - ETIQ 60X300 GARRAO,2,48.0,48,IA: Produto de papelaria
+BARRIGADA BOVINA - 102.0000,2,2.0,02,IA: Barrigada bovina é carne.
+BOVINOS MACHOS 0 A 12 M,2,1.0,02,IA: BOVINOS MACHOS são carnes.
+ESOFAGO DE BOVINOS - 26.0000,2,2.0,02,IA: ESOFAGO É CARNE COMESTÍVEL
+TULIPA L/E 206/C3 (22DTS) MECAN,2,87.0,87.0,IA: Produto mecânico.
+SCS PLAST NP LINGUICA DE CARNE SUINA APIMENTADA 30.00 X 50.00 L:661486,2,2.0,2,IA: Produto à base de carne suína.
+TRASEIRO - 681X553,2,0.0,68,"IA | Produto de pedra, gesso ou cimento"
+KIT 3UN ASA 195X1200MM,2,73.0,73,IA: Kit de asas indica estrutura metálica.
+TLP0302-TULIPA,2,87.0,06,IA | Produto sugere flor
+"ESPUMA D28 0,0000 X 10,0000 X 2,0000 X 0,0020",2,39.0,39,IA | ESPUMA indica material plástico
+ET 85X130MM PPA PAPADA CONGELADA DE SUINO,2,2.0,02,IA: Produto de carne suína
+REFRIG CONTINENTAL T,2,84.0,84,IA: Produto eletrodoméstico
+FLAT ASA DELTA TAXA FIVELA MARYS COR:OURO;TAMANHO:37,2,64.0,64,IA: Produto calçado
+SANGRIA,2,22.0,22,CLIENTE: Sangria é bebida alcoólica.
+MESA MONOPE PALETA LAMINADA PARA SALA 38X40CM - MEL,2,94.0,94.0,IA: Mesa é móvel
+PLASMA SUINO EM PO  78         N204023 DT.FABRICACAO :29/09/2020 DT.VALIDADE : 29/09/2022,2,2.0,02,IA: Plasma suino é derivado de carne.
+"BOVINO FEMEA 12 A 24M - 3,588.636",2,2.0,02,IA: Produto é carne bovina.
+33440 ASA DIREITA CPLT /////,2,88.0,83,IA |  Peça de reposição para máquina
+RASCHIAVETRO ESTERNO IN CINTU 05 1243905,2,87.0,87.0,IA: Raschiavetro é ferramenta
+MEU POEMA ABANA O RABO,2,49.0,49.0,IA: Produto cultural.
+MICANGA ENTREMEIO 100 UND CORACAO ESTRELA DESENHOS FLORES INFANTIL BIJUTERIA MODELO:ACH COLOR CORACAO PRETO,2,71.0,71,IA: Bijuteria infantil
+PONTA CAUTERIO AGULHA,2,90.0,90,IA: Equipamento médico
+PELE FRESCA DE BOVINO - 255.0000,2,41.0,02,CLIENTE: Pele fresca é carne.
+BUCHO KG,2,2.0,2,IA: Bucho é parte de animal
+PELE BOVINA DE PRIMEIRA CLASS. (337 PECAS),2,2.0,02,CLIENTE: Pele bovina é classificada como carne.
+BARRIGADA BOVINA - 154.0000,2,2.0,02,IA: Barrigada bovina é carne.
+ASA DELTA,2,88.0,88.0,IA: Produto de lazer/esporte
+PELE BOVINA DE PRIMEIRA CLASS ANGUS (160 PECAS),2,2.0,02,IA: Pele bovina é classificada como carne.
+MUND HP-H-(9.0000 ),2,0.0,85,IA: Produto eletrônico
+ONEADLTMINIPEQC/FRGO&CARNEDEVDD1X6KGBR,2,2.0,02,IA: Produto contém carne.
+MEMBRANA DIAFRAGMA GM SONIC,2,40.0,87,IA: Membrana de diafragma é peça automotiva
+BARRIGADA BOVINA - 153.0000,2,2.0,02,IA: Barrigada bovina é carne.
+HEMOGLOBINA SUINOS EM PO       N203451 DT.FABRICACAO :21/08/2020 DT.VALIDADE : 20/08/2022,2,2.0,02,IA: Hemoglobina de origem animal
+"LINGUA DO BRASIL AMANHA E OUTROS MISTERIOS, (A)",2,49.0,49,IA: Livro
+NEO CORACAO - 17/18,2,2.0,2,IA: Produto indica carne.
+MESA MONOPE PALETA LAMINADA PARA SALA 48X50CM - MEL,2,94.0,94.0,IA: Mesa é móvel
+BARRIGADA BOVINA - 148.0000,2,2.0,02,IA: Barrigada bovina é carne.
+MPD01003 - PELE BOVINA DE PRIMEIRA CLASS ANGUS (393 PECAS),2,2.0,02,CLIENTE: Pele bovina é carne.
+COURO SALGADO - 64.0000,2,41.0,41.0,IA: Couro salgado é produto de curtimento.
+SANGRIA FREIO,2,87.0,87.0,IA: SANGRIA FREIO é peça de veículo
+"093 CX- LING. BOV. GRANEL SAO LUIZ SC.5,130KG.",2,2.0,02,IA: Produto é carne bovina.
+ROT MEIO ASA FGO KG ASSADA,2,2.0,2,IA: Produto é carne assada.
+TRAQUEIA DE BOVINOS - 12.0000,2,2.0,02,IA: Traqueia é parte de carne bovina
+ACH TIA ASA MORC,2,2.0,2,IA: Produto indica carne.
+ML  SLIM C/RECORTE,2,0.0,48,CLIENTE | ML  SLIM C/RECORTE sugere papel
+MOELA FRANGO SEARA 1KG BAND,2,2.0,02,IA: Produto de carne avícola.
+AL1263-TULIPA -,2,,06,IA | Produto com nome que sugere flor
+PASTA LARGA 335X250X55MM C X L X DORSO,2,48.0,48,IA: Pasta de papel
+CARCACA PRINCIPAL AR DIRETO RED,2,84.0,84,IA: Produto mecânico
+9998 CLARA 44 1/2 COXA,2,2.0,02,IA: Produto de carne
+BOVINO MACHO ACIMA 36M - 462.500,2,2.0,02,IA: Produto é carne bovina.
+HEMOGLOBINA SUINOS EM PO       N203931 DT.FABRICACAO :23/09/2020 DT.VALIDADE : 23/09/2022,2,2.0,02,IA: Hemoglobina de origem animal
+O PATINHO PEPE UNICA NA,2,95.0,95,IA: Patinho é brinquedo
+MOELA DE FRANGO PT 1KG PACOTE 1KG PERDIGAO UN,2,2.0,02,IA: Produto é carne de aves
+MAR24482 / 400800102029 - ASA,2,0.0,2,IA | ASA é carne
+1170 - RECORTE BORBOLETA PRIMAVERA P 23X19,2,49.0,49,"IA: Recorte de papel, item decorativo"
+BANDEJA DE CARNE G,2,2.0,02,IA: Produto classificado como carne.
+TRIO 1RUC/AGR/ALF CRESP HIDROP EMB,2,12.0,12.0,IA: Produto parece ser carne processada.
+POLIDEXTROSE ST LOTE(S): 2039222 (800.0000 KG); 2308022 - VAL: 01 08 2025 (625.0000 KG); 2309222 - VAL: 21 09 2026 (75.0,2,17.0,17,IA: Polidextose é um carboidrato.
+LING. PEROLA 1KG SUINA FINA APIMEN,2,2.0,02,IA: Produto de carne suína.
+26430-7 ROT.1 PP FC CB25 A138 60X230MM-1C CARNE SUINA RESFRIADA,2,2.0,02,IA: Produto de carne suína.
+TUVIRA VIVA,3,3.0,3,IA: TUVIRA VIVA é um peixe
+CAM ML PECEGO CLARA TALIENK 40,3,61.0,61,IA: Produto têxtil
+PRE-VENDA SALMOTERAPIA  DR. JONATAS LEONIO,3,49.0,3,CLIENTE: Produto relacionado a peixes
+OSTRA P/GRATINAR 400 GR,3,3.0,03,IA: Ostra é um molusco
+HENLEY PREM BELMOND ML PRETO - M,3,61.0,61,IA: Produto de vestuário.
+RABO PEIXE P/ ESCAPE 4.1/2 (CURTO/440MM),3,87.0,87.0,IA: Parte para veículo
+NELORE PINTADO PO  PQS 306 MACHO  19M,3,1.0,01,CLIENTE: Animal vivo
+PASSAROS ORNAMENTAIS,3,3.0,04,CLIENTE: Aves são classificadas no capítulo 04
+CATIVEIRO NUCA MAIS,3,30.0,30,CLIENTE: Produto se encaixa na descrição do capítulo
+FACEPROTECTION - TUCUNARE AZUL - UNICO,3,62.0,62,IA: Produto de proteção facial
+PEIXE DOURADO,3,3.0,3,IA: Peixe dourado é um peixe.
+HOTPANT - ROSA - GG,3,61.0,61,IA: Produto de vestuário
+RABO PEIXE P/ESCAPE 4.1/2 (CURVO/LONGO 1360MM)(FAB,3,87.0,87.0,IA: Parte de veículo
+VESTIDOCHIDI SHAYE TERRY MD DR CHIDI M,3,61.0,61,IA: Produto de vestuário.
+POLVO NORMAL,3,3.0,3,IA: Polvo é um molusco
+RABO PEIXE P/ESCAPE 5 X 4.1/2 (1600MMX535MM)(BEPO),3,87.0,87.0,IA: Parte para embarcação
+PEIXE BETA (NAO SERA FEITO TROCA CASO MORRA),3,3.0,03,IA: Peixe vivo
+"BLOCO, QUADRADO OU FILE - SUCUPIRA - PTERODON EMARGINATUS - 0,15 X 0,15 X 3,50 M",3,44.0,44,IA: Bloco de madeira
+"GENESEAS - FILE DE TILAPIA - BEM FRESCO - 400 G - 22X27X0,16 - PET/PE - SACO PET / NYLON-POLI - IMPRESSO-OP:08022401001",3,3.0,03,IA: Produto de peixe
+ASSA PEIXE 30G,3,12.0,16,IA | Assa peixe é produto da pesca
+CAM I-21103 SL M/L,3,61.0,61.0,IA: Produto de vestuário
+POLVO HUMOR,3,95.0,3,CLIENTE: Polvo é um molusco.
+650/85R38 FI CAM F: DOT:0911,3,40.0,40.0,IA: Produto é pneu para veículo
+PEIXE DE APERTAR,3,95.0,3,CLIENTE: Produto se encaixa na descrição do capítulo.
+MARESSA - SALMãO - M,3,3.0,3,IA: Salmão é um peixe.
+CAMARAO NELSON NAKAMURA NAKAMARAO 9CM - 5 UNIDADES COR - ANGLERBRASIL:COR 803 - DOURADO,3,95.0,03,"IA | Produto é camarão, crustáceo."
+PORQUINHO,3,1.0,05,CLIENTE: Porquinho é um produto de origem animal
+CAM L LACO BOUQUET PRETO G,3,61.0,61,IA: Produto têxtil
+CAM M ML OUTLAST RIO I20 G,3,61.0,61,IA: Produto de vestuário
+PEIXE NYLON AMOROSO C/ CATNIP,3,95.0,3,CLIENTE: Produto é um brinquedo para animais.
+O PEIXE E O LEAO (EBOOK KINDLE),3,49.0,49,IA: Ebook é produto cultural.
+OUTROS/PORQUINHO,3,1.0,05,CLIENTE: Porquinho indica produto de origem animal
+LAMBARI ARTICULADO,3,95.0,95,IA: Articulação indica brinquedo
+CEVICHE ORIENTAL PEIXE BRANCO 237 G,3,3.0,3,IA: Produto à base de peixe.
+LAGOSTA FECHO - DOURADA,3,3.0,3,IA: Lagosta é crustáceo.
+POLVO DO HUMOR GRANDE,3,95.0,3,CLIENTE: Polvo é um molusco
+CAM PASSA FACIL REG MC,3,61.0,61.0,IA: Produto de cama e banho.
+PEROLA N10 SALMAO (204) 10G,3,71.0,03,CLIENTE: Produto é peixe
+CAM 18.4X34 IMPORTADA,3,40.0,40.0,IA: Produto se encaixa na descrição de pneus.
+GUTA PERCHA U-FILE F1-F3 C/60UN,3,90.0,90.0,IA: Guta percha é ferramenta.
+TAM - SAFEBAG GRATIS ROSA,3,42.0,42,IA: Produto embalado indica artigo de papelaria
+CAMISATA ROSA COM FAIXA P,3,61.0,61,IA: Camiseta é vestuário.
+MINERBLOCK MD                         LOTE/VALIDADE: M00214/23G20240713,3,,26,IA | MINERBLOCK sugere minério
+ROTULO MOD SARDINHA - ATUM,3,48.0,48,"IA: Rótulo é embalagem, não alimento"
+"JC200 MARTINAIR MD-11F PH-MCT """"""""""""""""40 YEARS IN THE AIR""""""""""""""""",3,88.0,88,IA: Modelo de avião
+CAM PASSA FACIL 500 AZUL MARINHO 04,3,61.0,61.0,IA: Produto têxtil
+KRAKEN 8/8,3,0.0,3,CLIENTE: Nome indica produto do mar
+BOIA CAMARAO BR,3,95.0,84,IA |  Boia indica brinquedo inflável
+CRIADO ROMA JACARANDA,3,94.0,94.0,IA: Produto de madeira esculpida.
+CALICO JOE,3,0.0,58,CLIENTE: Tecido
+BLUE SKY INTENSE,3,,3,CLIENTE: Nome sugere produto do mar
+TRAIRA CINZA 02 - 12,3,3.0,3,IA: Traira é peixe
+P.T. INTERF. JULLY EXTRA C/1000 BELL,3,0.0,85,IA: Interface de telecomunicações
+RABO PEIXE P/ESCAPE 3.1/2  (CURVO/415MM) (BEPO),3,87.0,87.0,IA: Parte de motor para embarcação
+CARPA COURO FAKE,3,39.0,39,IA: Produto de couro sintético
+POLVO 2EM1 PEL,3,95.0,3,CLIENTE: Produto é um polvo.
+PEIXE PALHACO  AU PET,3,3.0,3,IA: Peixe é classificado no capítulo 3
+ISCA CAMARAO AMARELO C/5 TL05-1164HA-0052,3,95.0,03,IA | Produto é camarão
+BUFFET MODELLO HG BCO/CZA 210X45X77H,3,94.0,94.0,IA: Móvel para buffet
+B MANOELA DV DOURADO U,3,71.0,71.0,IA: Produto de ourivesaria
+CAM-TAMBAQUI-VERDE TAMANHO:GG,3,3.0,3,IA: Produto derivado de peixe.
+MASSA PRONTA PARA PESCA TILAPIA-PIAU-PACU-CARPA KIT C/ 12,3,21.0,21.0,IA: Massa pronta para pesca é alimento
+PIPA CAMARAO GRANDE 60CM C/25,3,95.0,95,IA: Brinquedo de pipa
+BIOXAN COMPOSTO VALLEE 500 ML,4,30.0,30,IA: Produto químico para uso agrícola
+"FLORES SECA 16,5CM",4,6.0,06,IA: Flores secas são produtos vegetais.
+"NATURAL COLORS MEL +0,75-CU6638",4,32.0,04,CLIENTE: Mel natural está no capítulo 4
+YOPRO 25G SHAK CHOC250,4,4.0,21,IA: Produto lácteo em embalagens
+CX.PAP. 380X255X180 CAIXA MEL 500 G,4,48.0,4,IA | Mel natural está no Capítulo 4
+DEDO DE MOCA 60ML,4,7.0,04,CLIENTE: Produto derivado do leite.
+BEIRA RIO 8395 225 28992 34/39    37  OURO ROSADO/OURO ROSADO  GF,4,64.0,4,CLIENTE: Produto alimentício
+BOMBAY EXTRATO NATURAL DE BAUNILHA 30ML,4,13.0,13.0,IA: Extracto natural é classificado como especiaria
+GARRA DA CLASSIIFCADORA DE OVOS USADA (SUCATA),4,84.0,84,IA: Parte da máquina para classificação
+FORMA QUEIJEIRA RICOTA QUEIJO MINAS FRESCAL 1 KG INJESUL,4,39.0,04,CLIENTE: Produto lácteo
+"055 APTANUTRI 3 PREMIUM 12 A 36 MESES.01X800 %AGR:  22,7900 BASE ST: ********185,49 VALOR ST: **********5,85",4,4.0,04,IA: Produto lácteo para consumo infantil.
+CX.C.03 QUEIJO PALOMINO 100X50 GR - 420X320X180,4,4.0,04,IA: Queijo é um produto lácteo.
+IORGUT NATURAL UN,4,4.0,04,IA: Iogurte é um produto lácteo.
+BLS 12 OVOS GALINHA PINOS CX - C IMP BRANCO GRANDE,4,4.0,04,IA: Ovos são classificados no Capítulo 4.
+"055 APTANUTRI 3 PREMIUM 12 A 36 MESES.01X800 %AGR:  22,7900 BASE ST: ******1.106,21 VALOR ST: *********34,91",4,4.0,04,IA: Produto lácteo para consumo infantil
+PSEUDOCHROMIS FRIDMANI@ PSEUDOCHROMIS FRIDMANI,4,3.0,4,CLIENTE: Produto alimentício
+ADESIVOS - MANTEIGA,4,35.0,35,IA: Adesivos são produtos químicos.
+FORMULA NATURAL 500G,4,21.0,21.0,IA: Formula natural indica produto alimentício
+KIT ESCOVA MANTEIGA DE COCO 900ML,4,33.0,33.0,IA: Produto cosmético
+NEEDS POTE DOS P/LEITE,4,39.0,39.0,IA: Pote é artigo de plástico
+PIA DACHERI 1.20 GRANITO ALICANTE 0 BONITO LINDO DACHERI,4,68.0,68.0,IA: Pia é item de construção
+FORMULA C/COMPLEXO B (SEM 10UN;,4,30.0,30,IA: Fórmula contém complexo B
+"KIT COM 7 PCS PARA FRIOS, QUEIJOS MISTO (PREMIUM 57E + RED. 25CM + CORACAO M + 4  HAMB. 48B))",4,82.0,16,IA | KIT CONTÉM CARNES PROCESSADAS
+COD.301117 QJO.QUATA COALHO EM ESPETO ORIGINAL 7 UNID. 190X265 L LAMINADO (BOPA+PE / SIF 3830 / V00),4,4.0,4,CLIENTE: Produto lácteo em embalagens
+CREAN CHESE PHILADELFIA,4,4.0,04,IA: Queijo é um produto lácteo.
+"REQUEIJAO PARMATO CREMOSO 1,5KG 180X430 P LAMINADO (PET+PE PIG)",4,4.0,04,IA: Produto lácteo cremoso
+"BOI S/ COBERTURA - 1,718.000",4,2.0,02,IA: Boi é carne bovina.
+KIT MAPPYNG BOLSA HAPPY CORES VERMELHO U,4,42.0,42,IA: KIT MAPPYNG é um produto lúdico
+OVO CAIPIRA BRANCO FALSO BRINCADEIRA GALINHEIRO DE PLASTICO INDEZ GALINHA ENFEITE-48,4,95.0,95,IA: Brinquedo de plástico
+KIT QUEIJO,4,4.0,04,IA: KIT QUEIJO indica produto lácteo
+"CX DM3 TMP BCO/FDO PDO 53X40X5,5CM C/ 10 UND**",4,48.0,48,"IA: Produto embalado, similar a embalagens"
+AMOSTRA ALIBRA LEITE EM PO 2KG 528X355 (PET+PET MET+PE),4,4.0,04,IA: Produto lácteo em pó
+NINHO GIRASSOL,4,12.0,12.0,IA: NINHO GIRASSOL é um produto de decoração.
+ETQ BOPP TRANSP IOG MORANGO 500G,4,39.0,39,IA: Etiqueta é produto plástico.
+NATUROVITA COMPLEXO VITA LEITE - SACO 5KG,4,21.0,21.0,IA: Produto à base de leite em pó.
+NANLAC COMF 1A3 F 800G,4,4.0,04,IA: Produto à base de leite.
+QJ-309 TV ROLAMENTO DE ROLO CILINDRICO  FAG,4,84.0,84,IA: Produto mecânico para rolamento
+SORTIDO COMPOSTO POR DESIDRATADOR DO CON DD0404,4,84.0,84,IA: Desidratador é equipamento
+BEIJO GREGO,4,21.0,21.0,IA: BEIJO GREGO é um produto lácteo
+COMITIVA PANTANEIRA GRANDE E,4,,4,CLIENTE: Produto comestível de origem animal
+BALISSIMA LEITE 60X60 GR/(2CX),4,4.0,4,IA: Produto lácteo (leite)
+FORMULA INFANTIL NANLAC COMFOR 1 A 3 ANOS DE 800G,4,4.0,1901,IA: Fórmula infantil é produto alimentício
+OVO VIBRATORIO BULLET IMPORTADO VP (OV001-ST243) -VERMELHO-UNICO,4,85.0,96,"IA | Produto erótico, não alimentício"
+GALAO DE LEITE,4,4.0,04,IA: Produto típico do capítulo 4
+CAIXA PAPELÃO LISA MANTEIGA 405X305X115MM,4,48.0,48,IA: Caixa de papelão para manteiga
+"REFIL SACHE C/ERVAS, ZIP, DIVERSAS",4,9.0,9.0,IA: Refil para ervas indica produto aromatizante
+NEEDS TIRA LEITE,4,84.0,84,IA: NEEDS é um produto para extrair leite
+GRANEL FONTE MANTEIGA BRANCO,4,4.0,4,IA: Manteiga é um produto lácteo.
+TABOAS FUNCIONAL GR,4,46.0,46,IA: Taboas são produtos de madeira.
+FLOR DE SAL - 180G,4,25.0,21,IA | FLOR DE SAL É MINERAL
+BOV FEMEA PO REGISTRADO DE 25 A 36 MESES,4,4.0,01,IA | BOVINA PERTENCE AO CAPÍTULO 01
+QUASSIA SEP SACO 10KG,4,12.0,12.0,IA: Quassia é uma planta
+"BONE TRUE FARME AZUL ROYAL TROCA/DEVOL. REF. ITEM     1, DA NF        603, SERIE NFCE , U.N. 002 829",4,65.0,4,CLIENTE: Produto alimentício
+FLEXIVEL1/2X800-MG18XMG18,4,73.0,73,IA: Produto metálico
+DISPLAY D CHAO NINHO MOLICO SOLUCAO ZERO LACTOSE,4,48.0,4,CLIENTE: Produto contém leite.
+INC. CLOVE TRINTA ERVAS CX 25 PCT 7 VAR. P/ PCT LOTE BRZ088,4,9.0,9,"IA: Produto condimentado, similar a especiarias"
+APTANUTRI 3 C800GRS,4,4.0,4,IA: Produto à base de leite.
+TUBETES 180 ML JKS 126 UNIDADES-910010355 2 BANDEJAS 63 CELULAS JKS 910010230,4,39.0,39.0,IA: Tubetes são embalagens plásticas
+BELICHE MEL ESPECIAL,4,94.0,04,CLIENTE: Produto classificado como mel natural
+KIT QUEIJO QUATRO PCS WC409679,4,82.0,04,CLIENTE: Produto lácteo
+CARTELA C/ 66 ETIQUETA NESTON IORGUTE LIQ.MACA BANANA MD2,4,48.0,4,CLIENTE: Produto alimentício
+TRUPONOL OST LIQ.(NOCIVO),4,38.0,38.0,IA: Produto químico líquido
+PETIT GATEUA,4,19.0,19.0,IA: Petit gateau é um produto de confeitaria.
+"VERDE MEL PRIMER CX 3,6LTS",4,32.0,32,IA: Produto químico para pintura
+FD MAN PDO S/IMP 430X305X125,4,4.0,4,CLIENTE: Descrição indica produto do capítulo 4
+PORTA REQUEIJAO FOLHA,4,39.0,4,CLIENTE: Porta é item de madeira
+JACK DE MEL,4,22.0,04,CLIENTE: Mel natural está no capítulo 4
+PALHA ITALIANA NINHO,4,17.0,17.0,IA: Palha italiana é um produto alimentício
+"055 APTANUTRI 3 PREMIUM 12 A 36 MESES.01X800 %AGR:  22,7900 BASE ST: ********184,33 VALOR ST: **********5,82",4,4.0,04,IA: Produto lácteo para consumo infantil
+TRIANGULO RECOSTE BEM - DUOFLEX 38X38X53CM **,4,94.0,94.0,IA: Produto de apoio para descanso
+STANDAK TOP 10X1 L,4,,94,IA: Estrutura para exposição
+BRAGURT VEGETAL SABOR IOGURTE NATURAL PO SOLUVEL PROBIOTICO,4,21.0,21.0,IA: Produto vegetal similar a iogurte
+PALITO DE QUEIJO PEROLA MINEIRA 1 KG,4,19.0,19,IA: Palito de queijo é derivado do leite.
+NANLAC COMF 1A3 F 800G,4,4.0,04,IA: Produto lácteo em pó
+CAIXINHA FLORES GATINHA CHIC (30UN),4,48.0,48,"IA: Produto embalado, similar a brinquedos"
+CODORNA,4,2.0,02,IA: Aves são classificadas no Capítulo 02
+FORMULA NINHO FASES1+ 800G X2 PRESP,4,4.0,1901,IA: Fórmula infantil é produto alimentício
+FEMEA S COBERTURA - 221.500,4,4.0,04,IA: Produto lácteo
+SOBREMESA KG-DA CASA,4,21.0,21.0,IA: Sobremesa é classificada como produto alimentício
+DECORACAO OVO VASO DE FLORES COM CASCA DE OVO UNICA UN,4,69.0,69,IA: Decoração é item de cerâmica/vidro
+"NATURAL COLORS MEL +5,25-DP4752",4,32.0,04,CLIENTE: Mel natural está no capítulo 4
+BEZERRA SINDI PO,4,1.0,01,IA: Bezerra é animal vivo
+OSCILLOC 200K C/30,4,30.0,90,IA | OSCILLOSCOPE É INSTRUMENTO DE MEDIÇÃO
+FEMEA S COBERTURA - 322.500,4,4.0,4,IA: Produto lácteo
+BANDEJA PARA QUEIJO :,4,39.0,39.0,IA: Bandeja é artigo de mesa
+EMBAUBA IMBAUBA BRANCA CECROPIA PACHYSTACHYA LOTE CPA001SN,4,6.0,06,IA: Produto vegetal (madeira)
+POTE UNICOLOR 1.800 LEITE EM PO,4,39.0,04,CLIENTE: Produto derivado do leite.
+H104 APARELHO PARA RESF. LEITE,4,84.0,84,IA: Aparentemente equipamento para refrigeração
+NANLAC COMF 1A3 F 800G,4,4.0,04,IA: Produto à base de leite.
+GALINHA ANGOLA C/ OVOS GDE.,4,1.0,04,IA: Aves e ovos são classificados no Capítulo 4
+DBR REG GO/PN/CX CP BRR-DF 10 JI 312 NORTE,4,4.0,4,IA: Produto lácteo
+PV THUYA AVICOLA 90 ML,4,30.0,04,CLIENTE: Produto avícola
+"PELICULA PLASTICA PARA LEITE CAMBY PASTEURIZADO INTEGRAL HOMOGENEIZADO 1L 30,50 X 24,50 X 0,0070  PE",4,39.0,39,IA: Filme plástico para embalagem
+A ARTE DE MEL BROOKS,4,49.0,49,IA: Livro pertence ao capítulo 49
+"ETIQ PVC 150X120,65MM 307906 IOGURTE GREGO FLOCOS 450G ITAMBE - V.0",4,39.0,39,IA: Etiqueta PVC é produto plástico.
+NINHO 3 PECAS YOYO BABY,4,94.0,94.0,IA: Produto de brinquedo para crianças
+ETIQ BOPP 56X99MM 471132 IOGURTE BATAVO PEDACOS DUO 10X MAIS MARACUJA E PESSEGO 100GR ETQ061 - V02,4,39.0,4,CLIENTE: Etiqueta para produto do capítulo 4
+CLICHÊ VÓ ERMÍNIA CX 10,4,84.0,84,IA: Clichê é ferramenta para impressão
+"CEPA PADRAO, TIPO STAPHILOCOCCUS AUREUS, CARACTERISTICAS ADICIONAIS ATCC 25923 - LOTE 27665 VALIDADE 09/03/22 - NEWPROV",4,30.0,30,IA: Produto biológico para uso em laboratório
+POTE P/LEITE EM PO LUNIS PEQUENINOS C/1,4,39.0,39,IA: Pote é artigo de plástico
+VACA PO REGISTRADA,4,4.0,01,IA: Animal vivo para reprodução
+ST830IPRO TRTD? 200K 1 ST,4,,4,CLIENTE: Produto alimentício
+1225057 CALCADOS ENERGY BABY 2.0 TECIDO IOGURTE/MULTICOLOR 18,4,64.0,64,IA: Calçados são classificados no Capítulo 64
+FILME LAM TAMPA QUEIJO MUSSARELA FATIADO 150G - IMBAUBA (103951) L:491876,4,39.0,03,IA | Filme plástico para embalagem
+FORMA PARA QUEIJO MUSSARELA E REQUEIJAO 1KG INJESUL,4,39.0,82,IA | A forma é utensílio culinário
+APIS CIENCIAS 1 ANO(REFORMULADO),4,49.0,49,IA: Livro didático
+GALAO LEITE PLAST. 20L 28072,4,39.0,39,IA: Embalagem plástica
+"PÃO INTEGRAL TOP BOM 400G                            0,01UN",4,19.0,19.0,IA: Pão integral é produto de panificação
+MELAG VIT C E.FORT C20,4,30.0,21,IA | MELAG VIT C E.FORT C20 é um suplemento alimentar
+NANLAC COMF 1A3 F 800G,4,4.0,04,IA: Produto à base de leite.
+NINHO P TRINCA FERRO C SAMAMBAIA,4,44.0,44,IA: Produto de ferro para aves
+GARRAFA DE LEITE 1L,4,39.0,4,CLIENTE: Garrafa de leite é um produto lácteo
+"PAPEL MANTEIGA 28CMX7,5M",4,48.0,48,IA: Papel manteiga é produto de papel
+COMPOSTO VIBRACIONAL STRESS ZERO 15ML,4,30.0,30,IA: Produto similar a medicamentos
+D10388 A 3002 G,4,4.0,4,IA: Produto provavelmente derivado do leite.
+KIT COMPOSTO POR UM SUPORTE E UM SACHE DE FRAGANCIA NATURAL,4,33.0,33.0,IA: Kit aromatizador
+KIT COM 02 MEL COLA ANNA TELLES - 500G CADA,4,21.0,04,IA | Mel natural é classificado no Capítulo 4
+"COLCHÃO HOSPITALAR INFANTIL D26 - 1,48 X 0,58 X 0,08 - AZUL",4,94.0,94.0,IA: Colchão é item de mobiliário
+LEITE AR.IND.NAT.PO,4,4.0,04,IA: Leite é classificado no capítulo 4.
+CN NATALINA DIGNIDADE ZERO ALCOOL,4,22.0,22.0,IA: Bebida alcoólica
+FORMA PARMESAO 3KG,4,4.0,04,IA: Forma de parmesão é um laticínio
+NINHO P/ CANARIO TERRA,4,44.0,44,IA: Ninho para canário é produto de animais
+BANDEJA ABERTA P/OVOS 3 4 5 007067 NT V,4,48.0,4,IA | BANDEJA É UTILIZADA PARA OVOS
+ETIQ BOPP 57X129MM MP001647 DOCE DE LEITE FRIMESA POTE QUADRADO 400G - BEMIS - V04,4,48.0,48,IA | A etiqueta é parte da embalagem do produto
+NINHO HORA DE DORMIR 350G,4,4.0,4,IA: Produto alimentício para bebês
+CEFANOL 8X3 KG,4,38.0,38.0,IA: CEFANOL é um produto químico
+PAPEL MANTEIGA,4,48.0,48,IA: Papel manteiga é produto de papel
+KIT TRINCA FERRO FIBRA LARANJA E MAMAO + EXTRUSADA OVOS E MEL REINO DAS AVES,4,23.0,4,CLIENTE: KIT contém ovos
+CPO PP RQ 200/75 LAT. TOP MILKS TRADICIONAL C/1000 - PEDIDO 2024/1995 - 16588,4,4.0,04,IA: Produto lácteo (leite)
+BATE CHANTILLY PIRACANJUBA 200G,4,4.0,4,IA: Produto lácteo derivado do leite.
+PAPEL MANTEIGA 30X75,4,48.0,48,IA: Papel manteiga é produto de papel
+LEI 14133/21 - NOVA LEI DE LICITACOESDETALHAMENTO DE TODOS OS ITENS DESTA FATURA: LEI 14133/21 - NOVA LEI DE LICITACOES,4,49.0,49,IA: Lei de Licitações é serviço
+KIT P MOG MEL C/B MOG MEL 850X2135X120 E GUARN REG - FECH ROSETA TAMBOR,4,44.0,44,IA | KIT CONTÉM MEL NATURAL
+ET BATAVO PED MOR V03 100G FLE,4,4.0,04,IA: Produto lácteo (leite em pó)
+SETE SANGRIAS PAULISTA,4,22.0,22.0,IA: Bebida alcoólica
+DESSORADOR MINAS PADRAO 800GR,4,4.0,4,IA: Produto derivado do leite.
+EGUA,4,1.0,04,IA: EGUA é um produto lácteo
+SOBREMESA DIVERSAS,4,4.0,17,IA: Sobremesas são preparações alimentícias
+CX.PAP= REF: CAIXA LEITE CONDENSADO FEITO EM MINAS  CORTE E VINCO,4,48.0,48,IA: Caixa de leite condensado
+B NAGA LEITE 10 X 800G,4,4.0,04,IA: Produto lácteo (leite em pó)
+P MEL ART 25X240G,4,4.0,04,IA: Mel natural encaixa no Capítulo 4
+SOYMAX LEITE 22 F 40KG,4,21.0,04,CLIENTE: Produto derivado do leite.
+ESPáTULA PARA MANTEIGA  ESPáTULA DE MANTEIGA GELEIA PATE 1 ESPáTULA,4,82.0,82.0,IA: Espátula é utensílio de cozinha.
+"18397-4 ROT.3 POL.0,08 S/AD A083 110X75MM MUSSARELA PEQUENA",4,4.0,4,IA: Produto lácteo (mussarela)
+NANLAC COMFOR FORMULA INFANTIL LATA 2X800G 20OFF NA SEG,4,4.0,1901,IA: Fórmula infantil é classificada como alimento
+PRODUTOS NAO LISTADOS - TANQUE PARA LEITE L.240 LT  - OUTROS,4,73.0,84,IA: Tanque para leite é equipamento
+BAND  P/30 OVOS  BRANCA  /AMARELA  100 UND REPARCK,4,48.0,4,IA | Produto derivado de ovo.
+"JG GUARN MEL. NIAGARA OAK M R4,5 60/10 C/ 5 PC 2300X70X12 P/ PORTAX1000 (FORNECEDOR: 1, LOTE: 420047, QTDE:",4,44.0,44,IA: Mel natural
+OVO TIPO 1 CARTELA COM 30 UNIDADES SAO GABRIEL,4,4.0,04,IA: Ovo é classificado no capítulo 4.
+COMPOSTO BOTANICO RELAXAMENTO KUR,4,13.0,13.0,"IA: Produto fitoterápico, similar a medicamentos"
+PORTUGUESAS BRAZAO,4,,4,CLIENTE: Produto lácteo
+"BOI LEVE - 4,115.500",4,2.0,02,IA: Boi leve é carne bovina.
+MISTO,4,4.0,4,IA: Misto geralmente se encaixa em produtos alimentícios
+BOLSA DE MA PL MANTEIGA,4,42.0,42,"IA: A bolsa é feita de plástico, classificada como artigo de uso doméstico."
+THUYA AVICOLA 90 ML,4,33.0,03,IA: Produto derivado da avicultura
+CLICHE OVOS DE CODORNA NAJU 700G 450X280 G LAMINADO (PET+PE),4,39.0,04,CLIENTE: Ovos são classificados no capítulo 4.
+KIT QUEIJO 3 PECAS,4,82.0,04,CLIENTE: KIT QUEIJO indica produto lácteo
+HORT FRUT SOFT,4,7.0,04,CLIENTE: Produto alimentício
+VT ML 395.109/2003,4,,04,CLIENTE: Produto se encaixa na descrição do Capítulo 4
+NANLAC CONFOR 1 A 3 800G,4,4.0,1901,IA: Preparação para lactentes
+BEIJO GREGO,4,21.0,21.0,IA: BEIJO GREGO é um produto lácteo
+JOGO DE LENCOL COM 3 PECAS GATINHOS / ROSA IOGURTE / U,4,63.0,63,IA: Jogo de lençol é artigo têxtil
+FIBREMS C/10 SACHES 5G,4,21.0,21.0,IA: Produto fibroso para consumo humano
+EMPORIO NAT OREGANO KG,4,9.0,09,IA: Oregano é especiaria
+18238-49 ROT.3 POL SA008 A210 100X210MM MANTEIGA ALEMA BARRA C/SAL,4,4.0,4,IA: Manteiga é um produto lácteo
+ESTAÇÃO MULTI-FUNCIONAL COM SMITH - PRO,4,95.0,84,IA | Estação multifuncional é equipamento
+BUSCOVERAN COMPOSTO SOL ORAL 1,4,30.0,30,IA: Produto farmacêutico
+DX CS G/O CX CAMPINAS PA 180G 12 BRANCO,4,4.0,04,IA: Produto lácteo (leite em pó)
+FORMULA INF NOVAMIL RICE 400G,4,4.0,4,IA: Fórmula infantil é derivado do leite
+"BAMBOO MARTAN, ESSÊNCIA - 1X800",4,33.0,33.0,IA: Essência vegetal
+JJ- 6781354989 _ 2024_MS_CHAPADAO DO SUL_EQUIPE DE TRABALHO - PAROQUIA SAO PEDRO APOSTOLO- MOD 003 TAMANHO - INFANTIL 06,4,61.0,61.0,IA: Produto vestuário infantil
+CASCA DE OVO BRANCO 100 GR,4,4.0,04,IA: Casca de ovo é produto de ave
+FAVO DE MEL,4,4.0,04,IA: Favo de mel é produto do Capítulo 4
+COMPOSTO DE POLIPROPILENO COM CARGA P9,4,39.0,39.0,IA: Composto químico
+NINHO MAD.PERIQUITO HZ IND.,4,44.0,44,IA: Produto similar a ninho de pássaro
+SOBRE TAMP CUBO DT SC CROSCA,4,87.0,87,IA: Produto se encaixa na descrição de peças para veículos
+JM -6781354989 -  MOD 003 - 2023 - MS -CHAPADAO DO SUL - 5 ACAMPAMENTO SENIOR TAMANHO - INFANTIL 02 (DISPONIBILIDADE: D,4,63.0,95,IA | Produto é brinquedo infantil
+AHO PORO - CX,4,4.0,4,IA: Produto lácteo
+OVO YONI PEDRA JASPE VERMELHO IDEAL POMPOARISMO SEM FURO LEIA TODO ANUNCIO REFF 96.9,4,68.0,71,IA | Produto de pedra
+PAPEL MANTEIGA P/ PIZZA N. 35 C/ 100 UN.,4,48.0,48,IA: Papel manteiga é produto de papel
+ETIQUETA CHEESE FIT 500 UN - R,4,48.0,48,IA: Etiqueta para produto lácteo
+MISTO DO CHEF,4,4.0,4,IA: Misto culinário geralmente contém ingredientes do capítulo 4
+PETIT GÂTEAU,4,19.0,19.0,IA: Petit gâteau é um produto de confeitaria.
+"ETIQ PVC 150X120,65MM IOGURTE GREGO TRADICIONAL ITAMBE 450G AMCOR 35U - MP002217 / 311961 - V02",4,39.0,39,IA: Etiqueta PVC é produto plástico
+BELSPAN COMPOSTO 20ML GOTAS,4,30.0,30,IA: Produto similar a medicamento
+CAIXA PETIT 1 10X10X4CM - 7898198011594 -ESTAMPA - 054,4,48.0,48,IA: Caixa de papelão para embalagens
+TOTAL VIRGEM BISNAGA 15G,4,33.0,15,IA |  Produto oleaginoso derivado de plantas
+SELFCARE FLOR AZUL PB TAMANHO:P,4,33.0,33,IA: Produto de higiene pessoal
+"BEZERRA NELORE PO REGISTRADA, 0 A 2 MESES",4,1.0,01,IA: Animal vivo
+VAL DE FLORES,4,6.0,06,"IA:  Produto floral, classificado em capítulo 6"
+FORMULA INF NINHO HORA DORMIR 350G,4,4.0,4,IA: Fórmula infantil é derivado do leite
+"KIT OVOS DECO PINTADO JAR C6, MC002",4,97.0,4,CLIENTE: Ovos são classificados no capítulo 4.
+KIT PARA QUEIJO C/4 PECAS,4,82.0,82.0,IA: Kit para queijo é utensílio
+COZINHA 06419 PETIT CHEF,4,94.0,94.0,IA: Brinquedo de cozinha
+NINHO IDADE ESCOLAR 740G,4,4.0,4,CLIENTE: Produto alimentício
+JOGO AMERICANO IOGA VERDE,4,63.0,9504,IA | Jogo americano é artigo de lazer
+CHOCADEIRA DE OVOS LANCAMENTO 2024,4,84.0,84,IA: Chocadeira é equipamento eletrodoméstico
+PE PALITO 20CM 15G MEL,4,17.0,17,IA: Mel natural
+AROEIRA FOLHA KG,4,12.0,12.0,IA: Aroeira é planta medicinal
+FR PET 30ML TULIPA (B18MM),4,39.0,39.0,"IA: Produto embalado, similar a frasco"
+TAMPA PARA CAIXA DE LEITE VACA TETA VAQUINHA COW COM FURO,4,39.0,39.0,IA: Tampa é artigo plástico
+CLIP STRIP - CREME DE RICOTA S,4,4.0,21,IA: Produto derivado do leite.
+HIBISCO QUEBRADO DESIDRATADO 1KG,4,7.0,07,IA: Hibisco é produto agrícola
+CAIXA NINHO ABELHA COMPLETA,4,84.0,44,CLIENTE: Caixa para abelhas
+PAPEL MANTEIGA,4,48.0,48,IA: Papel manteiga é produto de papel
+FEMEA S COBERTURA - 272.500,4,4.0,4,IA: Produto lácteo
+EXTRATO DE PROPOLIS C/ VITAMINA C + VIT D3 + ZINCO - 60 CAPS - NUTRALIN,4,21.0,21,IA: Propolis é produto natural
+BATEDEIRA DE MANTEIGA MRN T50 - N .SERIE: 29689,4,84.0,84,IA: Batedora é equipamento eletrodoméstico
+CP DANUBIO COTTAGE + GEL.DAMAS,4,4.0,04,IA: Produto lácteo (cottage)
+APTANUTRI 3 800G AMAZON,4,4.0,4,IA: Produto alimentar à base de leite.
+POCOI TW15-H / COD 1477309 REQ 1955632 SEQ 1,4,,4,CLIENTE: Produto alimentício
+NINHO IDADE ESCOLAR 750G,4,4.0,4,IA: Produto lácteo em pó
+"055 APTANUTRI 3 PREMIUM 12 A 36 MESES.01X800 %AGR:  22,7900 BASE ST: ********153,35 VALOR ST: **********4,84",4,4.0,04,IA: Produto lácteo para consumo infantil
+IMPRESSO CURCUMA PREMIUM 270ML VERSO GHEE,4,15.0,15.0,IA: Produto à base de ghee (manteiga clarificada)
+OE PATCHOULI LIGHT - UN (10 ML),4,33.0,33.0,"IA: Óleo essencial, classificado em produtos químicos"
+LTE PLANA ESP GOLD MARROM 71 MM BASE 6.00,4,90.0,87,IA | Veículo terrestre
+INC.MASSALA MIRRA CX 25 PCT 7 VAR.P/PCT LOTE BRZ114,4,33.0,33,IA: Especiarias são classificadas no Capítulo 33
+PO CASCA DE COCO - 500 G,4,14.0,20,IA | Produto derivado da casca de coco
+MEL 57210572 TRENZINHO MADEIRA,4,95.0,04,IA | MEL NATURAL PERTENCE AO CAPÍTULO 4
+DBR REG GO/PN/CX CP BRR-DF 10 EC 218 DE STA MARIA,4,4.0,4,IA: Produto lácteo (leite em pó)
+V20 BLA 090 LARANJA 36,4,,4,CLIENTE: Produto alimentício
+FILME LEITE EM PO INTEGRAL  400G - GLORIA,4,4.0,04,IA: Produto derivado do leite.
+NINHO C LA FASES 1800,4,4.0,4,IA: Produto derivado do leite.
+TABUAS QUEIJOS FRIOS PORCOES MESA POSTA 25 CM REDONDA 2 PC NOME DO DESENHO:MARFIM;COR:MARFIM,4,44.0,4,CLIENTE: Tabuas de queijo são produtos lácteos.
+ORG CLEAR OVOS FRESH OF150,4,4.0,04,IA: Ovos são classificados no capítulo 4.
+PESCOÇO INFANTIL ALMOFADA NEUTRO,4,94.0,94.0,IA: Produto de uso infantil
+CLICHÊ RONI MESSIAS VC 10 KG,4,37.0,37.0,IA: Clichê é produto químico
+MELAG VIT C E.FORT C20,4,30.0,21,IA |  Produto similar a vitamina C
+VIT TRELOSO CLUBINHO LEITE 30X130G,4,19.0,19,IA: Produto lácteo (leite)
+NOVAMIL AR X 400G,4,4.0,04,IA: Produto lácteo em pó
+BANDEJA PARA OVOS NEW BONE MONTANA- BRAN,4,69.0,69,IA: Bandeja é utensílio de cozinha
+PAPEL MANTEIGA MM 30,4,48.0,48,IA: Papel manteiga é produto de papel
+YUMMY GEL COMESTIVEL TERMICO 15ML SEXY FANTASY LEITE CONDENSADO,4,33.0,21,IA | Gel comestível é classificado como preparação alimentar.
+POTE PARA MANTEIGA AZUL MARSEILLE - 11X10CM,4,69.0,69,IA: Pote é artigo de mesa
+CONJ AZUL SEED T08,4,0.0,4,CLIENTE: Produto alimentício
+EMBALAGENS DE OVOS DE GALINHA EM POLPA DE PAPELAO 250 UNIDADES,4,48.0,44,IA | EMBALAGENS DE OVOS SÃO PRODUTOS DE PAPEL
+SITIO VARGEM GRANDE B2B1000,4,4.0,4,IA: Produto lácteo
+CLICHE PAMFIS QUEIJO MUSSARELA RALADO 1KG 480X320 E LAM (PET+PE),4,39.0,04,CLIENTE: Produto lácteo
+CONJUNTOMALHA ANITA- TAMANHO 10,4,61.0,61,IA: Conjunto de malha é vestuário.
+ROTULO SLEEVER TERMOENCOLHIVEL - CREME MINAS FRESCAL 200GR,4,39.0,39.0,IA: Rótulo é artigo de embalgem
+"JOGO P QUEIJO 5 PCS MONACO 7851 VALOR APROXIMADO DOS TRIBUTOS R$ 5,22 (22,01%) FONTE IBPT",4,82.0,95,IA | Jogo é classificado no Capítulo 95
+COMPOSTO TERPENICO MICOSANI 20ML,4,33.0,33.0,IA: Composto terpenico é produto químico
+BASIC AMARELO MANTEIGA GG,4,4.0,4,IA: Manteiga é um produto lácteo.
+1X18 IPERESPRESSO GUATEMALA 13935590-5,4,9.0,9.0,IA: Café em grãos
+XYLITOL KG HORTI FRUTI KG,7,17.0,17.0,IA: Xilitol é um adoçante derivado de plantas.
+ABOBORA KRIAT HW BASTAO 13125,7,7.0,07,IA: Abóbora é produto hortícola
+VIGOTA CANELA-MANDIOCA M,7,44.0,7,CLIENTE: Produto alimentício derivado de raiz.
+ODO BREEZE SENSATION WONDER 24X5ML-2082,7,33.0,33.0,IA: Produto perfumado
+SUPORTE TOMATE,7,73.0,73,IA | Suporte para tomate é estrutura
+ACCUFILM CX. 280 FOLHAS.   PARKELL,7,48.0,48,IA: Produto similar a papel
+"055 PEPINO CLASSIC CHEF...............01X300 %AGR:  27,3000 B.ST: *******47,71 V.ST: ********1,74      CXA:       0,266",7,7.0,07,IA | PEPINO É PRODUTO HORTÍCOLA
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola.
+"FRUITT LIFE STRAW 18,9",7,39.0,39.0,IA: Produto de plástico para consumo.
+CONDIMENTOS PETISCO TEMPERO BAIANO 30 GR,7,9.0,21,IA | Condimentos são classificados no capítulo 21
+TOP AGRIAO / PRETO M,7,61.0,07,CLIENTE: Produto hortícola
+OE IMMORTELLE,7,33.0,33,IA: OE IMMORTELLE sugere produto cosmético
+BOLA FEIJAO,7,95.0,07,CLIENTE: Bola de feijão é um produto hortícola
+TEMPERO ALHO E SAL AMAFIL 1KG,7,21.0,21.0,IA: Temperos são classificados como produtos alimentícios
+"OTAF ROT.3 PP FC CA20 A158 90X175MM-1C COM HORTELA, LIMAO E GENGIBRE",7,21.0,21.0,IA: Produto processado com frutas.
+LEG VELUDO - ABOBORA - P,7,61.0,61,IA: Legumes de uso decorativo
+COGUMELO NOVO P,7,7.0,7,IA | Cogumelos são produtos hortícolas
+ESCOVA TIPO PEPINO CADILLAC,7,96.0,96,IA: Escova não é produto agrícola
+BICO PAPAGAIO SEM RABO,7,95.0,95,IA: Produto de brinquedo
+MULTI BERINJELA FLORIDA MARKET 7896026061513,7,7.0,7,IA: Produto hortícola comestível
+C.O PE TRES FOLHAS,7,,07,CLIENTE: Produto hortícola
+SOPEIRA BERINJELA,7,69.0,7,CLIENTE: Sopeira é derivado de berinjela
+SCS PLAST NP CENOURA RALADA 1KG COOPERAI 20.00 X 26.00 L:359193,7,7.0,7,IA: Produto hortícola processado
+REMESSA - CM IMPRIMACAO - ISENTO,7,49.0,49,IA: Remessa de impressão indica produto manufaturado
+17137-EXAME-TIPO:IMUNOENSAIO;ESPECIE;SEMIQUANTITATIVA DE ANTICORPOS IGM;DETECCAO:CITOMEGALOVIRUS,7,38.0,38.0,IA: Kit de diagnóstico médico
+- PA LENTILHA 1/4X5/8 - RI ZB,7,7.0,7,IA | Lentilhas são produtos hortícolas
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+TRAPOERABA ROXA,7,7.0,7,CLIENTE: Trapoeraba é um vegetal comestível.
+ACETAMIDA PURISSIMA 100G,7,29.0,29.0,IA: Acetamida é um composto químico.
+AB 50601,7,7.0,7,IA: Produto hortícola
+SAL PARRILHA ALHO SOETO 320GR         20,7,25.0,21,IA: Sal é classificado como produto alimentício
+POTE GRANDE - SAL COM ALHO 480G,7,21.0,21.0,IA: Sal com alho é condimento
+AGAPANTHUS ROXO,7,6.0,06,IA: Agapanthus é planta ornamental
+PILAO DE ALHO PLASTICO,7,39.0,39.0,IA: Produto de plástico.
+PT GRAU DIREITO HORTI FRUTI PREMIUM 350 X 225MM PRETO,7,39.0,39.0,IA: Produto de plástico para horta
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+HYDRATE 500G,7,21.0,21.0,"IA: Produto desidratado, similar a alimentos."
+SAL ROSA/ALHO/CEBOLA BR SPICES 70G C/MOEDOR,7,21.0,21.0,IA: Especiarias são classificadas no capítulo 21
+ESSENC ANTITABACO NACIONAL,7,33.0,33.0,IA: Essencial antitabaco é medicamento
+HORTFRUIT MORICOTA,7,8.0,7,CLIENTE: Moricota é um produto hortícola.
+MODIFICADOR ORGANICO VALLE 500 ML,7,33.0,33.0,IA: Modificador orgânico indica produto químico
+SAL DE PARRILLA E PIMENTA E ALHO CANTA GALLO NETAO 250G CANTA GALLO UN,7,25.0,21,"IA: Produto condimentado, classificado como especiarias."
+SAL ESPECIAL COM ALHO E CEBOLA 300G,7,21.0,21.0,IA: Sal aromatizado é classificado como alimento preparado.
+VASO ABOBORA -,7,69.0,69,"IA: Vaso é item de decoração, não alimento."
+ALFARROBA EM PO 200G SANTO OLEO,7,8.0,8,IA: Alfarroba em pó é produto processado
+VASOS DE HORTELA,7,7.0,7,CLIENTE: Vasos de hortela são produtos hortícolas
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+ROTULOS - ALHO E CEBOLA 80G. 150X52MM 5X0 BOPP METALIZADO.,7,48.0,48,IA: Rótulos são embalagens
+SELDORA VACUO,7,,07,CLIENTE: Produto hortícola
+PIMENTAO PORCELANA C/ PARAFUSO,7,85.0,7,CLIENTE: Pimentão é produto hortícola
+PIMENTA ANDINA BL 10 UN *,7,7.0,7,IA: Pimenta é produto hortícola
+SAQUINHO DE BATATA BK 22X11FD 6000UND,7,48.0,48,IA: Saquinho de batata é embalagem
+OSSO CENOURA CAIXA C/30 PCS,7,23.0,23,IA: Ossos são produtos de origem animal
+"EXT 3 X 0,75MM 10 MTS C/ TOM TRIPL PRETA",7,85.0,85,IA: Fio elétrico
+CARREGADORCEL TOM EPTA200,7,85.0,85,IA: Carregador é dispositivo eletrônico.
+BICO PAPAGAIO SEM RABO,7,82.0,82,IA: Bico de papagaio é um artigo de brinquedos.
+0007 ABOBORA GRANDE P/PENDURAR,7,7.0,7,IA: Abóbora é produto hortícola
+ABOBORA BALDE PRETO,7,39.0,07,CLIENTE: Abóbora é produto hortícola
+PLANTADEIRA DE MANDIOCA 2 LINHAS,7,84.0,84,IA: Máquina agrícola
+OUTROS/MORANGA M,7,7.0,07,IA: Moranga é um produto hortícola
+LEG F PERFORMANCE ALECRIM P,7,61.0,7,CLIENTE: Produto hortícola
+W S/S VNK NEW FAVE CORE TH100 PP,7,61.0,61,IA: Produto têxtil
+EXPRESSO VIBRANTE,7,,7,CLIENTE: Produto alimentício.
+REC 50068570-0 CAPSULAS CADASTRADA 2X1 UN,7,30.0,30.0,IA: CAPSULAS indica medicamento
+ID-6796969850MSPONTA PORAMIL AVE-MARIAS - PAROQUIA DIVINO ESPIRITO SANTO - MOD. 002 TAMANHO - TAM. ESPECIAL EX2 (DISP,7,62.0,7,CLIENTE: Produto hortícola
+HORTELA 10X5 ST,7,7.0,7,IA: Produto hortícola
+FOLHAS DE CONTRIBUICAO - 2017,7,49.0,49,IA: Folhas de contribuição são produtos de papelaria.
+EMBALAGEM BATATA CHEDDAR 600UN,7,48.0,48,IA: Embalagem indica produto processado
+ESSENC. CANELA 010018,7,33.0,33.0,IA: Essência de canela é produto químico
+"GEOMETRIC - POTE, 500 ML - ALHO (CAIXA C/ 15)",7,20.0,20,"IA: Produto processado, embalado"
+CX BATATA FRITAS TIPO MC - PADRAO,7,7.0,7,IA: Produto processado a partir de batata.
+FOR BABY COGUMELO,7,95.0,95,IA: Produto de brinquedo infantil
+FLORES *(VERMELHO CORAL/AMA SOL/LARANJA CENOURA/RISTAL),7,6.0,06,IA: Flores são produtos da natureza
+PORTA CONDIMENTOS CEBOLA,7,39.0,7,CLIENTE: Porta condimentos indica uso culinário.
+BALANCA 500G TOMATE,7,84.0,07,CLIENTE: Tomate é produto hortícola
+KIT BIJUS CENOURA,7,71.0,71,CLIENTE: KIT BIJUS CENOURA indica bijuterias
+REC 11570790-0 CAPSULAS CADASTRADA 2X1 UN,7,30.0,30,IA: Produto farmacêutico
+OREGANO 01 KG,7,9.0,09,IA: Oregnao é especiaria
+"PANTANAL 65 PRECO ORIGINAL R$:113,45",7,,7,CLIENTE: Produto alimentício
+B-525 PRO HF 883464 CX 4X5L,7,38.0,85,IA | Produto eletrónico
+FRANGUET VEGETAL CX 300G,7,21.0,21.0,IA: Produto processado à base de vegetais.
+CARTEIRA MAXIXE - CARAMELO,7,42.0,42,IA: Produto de couro/material similar
+INTERCONECTOR 6338 DES 1401113D - 1401081D 316L,7,73.0,73,"IA: Produto metálico, encaixe em conexões"
+ABOBORA BALDE PRETO,7,39.0,07,CLIENTE: Abóbora é produto hortícola
+NL MC VELUSO ESST AZUL FLOR BEGE GISELE PEDROZO M,7,61.0,61,IA: Produto têxtil
+BETERRABA 8 CELULAS,7,7.0,7,IA: Beterraba é um vegetal comestível.
+EMBALAGEM BATATA 100G,7,48.0,48,IA: Embalagem indica produto processado
+4066 - TG66 - ALECRIM G,7,7.0,7,IA | ALECRIM É UMA PLANTA COMESTÍVEL
+COELHO C/CENOURA 10CM # PAS0063,7,95.0,7,CLIENTE: Coelho é produto alimentício
+ENERMAX-HF - 30 KG,7,38.0,38.0,IA: Produto químico (fertilizante)
+SALT GROSSO COM ALHO GOURMET 500 G,7,25.0,21,IA | Sal grosso é classificado como condimento
+UPTEC RUCULA HD1 20 KG,7,7.0,7,IA: Produto agrícola (hortícola)
+MORANGA AMARELA,7,7.0,07,IA: Moranga é um produto hortícola
+RUBEOLA 13G - VERDE,7,30.0,30,IA: Produto químico para controle de pragas
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+SACO RUCULA VERDE C/1000 UND,7,7.0,7,IA: Produto hortícola comestível
+PROCTAN HEMORROIDAS 25G,7,30.0,30,IA: Medicamento para hemorroidas
+CAIXA NOVO HAMBURGO AF4660,7,48.0,48.0,"IA: Produto embalado, similar a utensílio"
+CANTUS FR 500 GRS - ORIGEM 5,7,,7,CLIENTE: Produto hortícola
+INSECT 20KG HELMESTAR,7,38.0,38.0,IA: Inseticida é classificado como produto químico.
+EXTRATO DE AGRIAO L MATERIA PRIMA,7,7.0,7,IA: Extracto de agrião é produto hortícola
+INSULINA FOLHA 25G,7,30.0,30,IA: Insulina é medicamento
+COR:BERINGELA;TAMANHO:P,7,7.0,7,IA: Produto hortícola
+OREGANO ZAELI 10X7 - SC,7,9.0,7,CLIENTE: Oregnao é um produto hortícola
+CANUT 9MM PRATA 21 500G,7,71.0,71,CLIENTE: Canut é um produto alimentício.
+THR320 (ORIGIN),7,,7,CLIENTE: Produto alimentício.
+EMBALAGENS CONICAS S/I MED.24X14X35 P/RUCULA HID,7,39.0,39,IA: Embalagens de papel ou plástico
+GIBI CEBOLINHA FABULAS,7,49.0,49,IA: Produto cultural
+BOLA FEIJAO LARANJA 45CMX90CM,7,95.0,95,"IA: Bola é brinquedo, não alimento"
+UPTEC ALFACE HD1 20 KG *,7,7.0,07,IA: Produto hortícola comestível
+"ETOFADO COIMBRA IMPERIAL 2,42 ESTOFADOS IMPERIAL",7,94.0,94.0,IA: Produto estofado
+"FRUITT LIFE STRAW 18,9",7,39.0,39.0,IA: Produto de plástico para consumo.
+UPTEC ALFACE HD1 20 KG,7,7.0,7,IA: Produto hortícola comestível
+NUFURON (ALLY) - CX 100X10 GR 0 KG,7,30.0,30,IA: Produto químico agrícola
+E.V.A APLIKS MEDIO 172 ABOBORA,7,39.0,39.0,IA: Material plástico para artesanato
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+FAIXA INVERNADA LISO TOMATE ADULTO 7899827756619,7,62.0,7,CLIENTE: Produto hortícola
+SOUSPLAT PIMENTA,7,69.0,20,CLIENTE: Sousplat é um condimento
+VERDURAS DIVERSAS BANDEJA,7,7.0,07,IA: Verduras são produtos hortícolas
+"CHEIRO DO RALO, O 9788535919189",7,49.0,49,<IA | CLIENTE | INCONCLUSIVO>: Produto cultural
+PAINEL ABOBORA GRD 44X38CM,7,94.0,94,IA: Painel decorativo
+ABOBORA DECORATIVA HALLOWEEN - UNIDADE,7,95.0,95,IA: Abóbora decorativa não é alimento.
+KIT MINI NINJA II PIMENTA SEXY VERMELHO.,7,33.0,95,IA | KIT DE BRINQUEDOS SEXUAIS
+GARRAFA CHUCHU G,7,39.0,39.0,IA: Garrafa é produto de plástico.
+SAL PARRILHA ALHO SOETO 320GR          1,7,25.0,21,IA: Sal é classificado como produto alimentício
+EMBALAGENS CONICAS HID MED.24X14X25 P/RUCULA HID,7,39.0,39,IA: Embalagens são classificadas no capítulo 39
+OREGANO,7,7.0,07,IA: OREGANO é um produto hortícola
+"AIPO - SALSãO 0,5G (REF 024)",7,7.0,7,IA | AIPO É PRODUTO HORTÍCOLA
+ALMOFADA COGUMELO NOZES,7,94.0,94,IA: Produto de decoração
+"055 CEBOLINHA CRISTAL CLASSIC CHEF VD.01X100 %AGR:  27,3000 BASE ST: *********21,75 VALOR ST: **********0,79",7,7.0,7,IA | CLIENTE: Produto hortícola
+FOLHAS DE AMORA,7,12.0,07,CLIENTE: Folhas de amora são produtos hortícolas.
+E.V.A APLIKS MEDIO 172 ABOBORA,7,39.0,39.0,IA: Material plástico para artesanato
+PALHA BAT DOCE ALECRIM 200G ROOTS,7,17.0,17.0,IA: Palha de alecrim é especiaria
+OLEO DE ALHO CAP. 250 MG (POTE C/100),7,30.0,30,IA: Óleo de alho é derivado vegetal
+HATTA TORRADINHA KG 0 UN,7,19.0,19.0,"IA: Produto processado, similar a biscoitos."
+HELICOIDE DE VAGEM PL 01,7,84.0,84,IA: Hélice indica peça mecânica
+MALVA FOLHAS 30 GR,7,12.0,12,"IA: Malva é planta medicinal, não alimentícia"
+"PICKERS ANEL CEBOLA PRE FORMADO 1,05KG",7,16.0,07,CLIENTE: Produto hortícola
+ABOBORA BRUXA UNICA,7,7.0,07,IA: Abóbora é um produto hortícola
+10 UN PLANTA AQUATICA ALFACE DAGUA PISTIA STRATIOTES AQUARIO,7,7.0,07,CLIENTE: Produto hortícola para aquário
+"PANAMBY - POTE COLORS 1,8LT FEIJAO",7,39.0,20,"IA | Produto enlatado, não vegetal"
+OREGANO,7,9.0,09,IA: OREGANO é especiaria
+PIMENTA MISTA CHAO PRETO 80GR,7,9.0,7,CLIENTE: Pimenta é um produto hortícola
+MESA LEBLON ROXO IMPORTADO,7,94.0,94,IA: Móvel
+LIN  DE CHEIRO RENDA,7,33.0,33,IA: Produto de perfumaria
+TOM. TELEB. C/RJ1103744N,7,85.0,85,IA: Produto eletrônico
+DANIEL [CD],7,85.0,85,IA: Produto tecnológico (CD)
+MOYASHI 500GR,7,7.0,07,"IA: Moyashi é um broto de feijão, produto hortícola."
+CATUNI SECO,7,7.0,7,IA: Produto seco derivado de planta
+5200 LIQUIFICADOR TOMATE MAZ-003 ROSA,7,85.0,85,IA: Liquificador é eletrodoméstico
+OREGANO KG,7,9.0,07,CLIENTE: Oregnao é um produto hortícola.
+"055 PEPINO CLASSIC CHEF...............01X300 %AGR:  27,3000 B.ST: ******174,54 V.ST: ********6,36      CXA:       1,000",7,7.0,07,IA | PEPINO É PRODUTO HORTÍCOLA
+ESCARIF. HIDROP. EHP 500 6H -IPACOL,7,84.0,38,IA | Produto químico para tratamento
+VACA TF - 237.900,7,2.0,02,IA: Produto animal
+PRODUTOS NAO LISTADOS - BERINGELA - OUTROS,7,7.0,7,IA: Beringela é um produto hortícola.
+CRISTAL MEDIO COGUMELO DE SHITAKE,7,7.0,7,IA: Cogumelo é produto hortícola comestível
+EXPRESSO VIBRANTE,7,,7,CLIENTE: Produto alimentício.
+MANGERONA TEMP PRUDENTINO10G,7,12.0,7,CLIENTE: Produto hortícola
+SALVIA PV C/10,7,7.0,7,IA: Salvia é uma planta comestível.
+PAU ALECRIM,7,44.0,07,CLIENTE: Item alimentício
+"CHEIRO PARA EMBALAGEM  AROMA  PERFUME PARA LOJA, PAPEL E ARTESANATO PIMENTA ROSA,100ML",7,33.0,33,IA: Perfume para loja
+"ISPERIA, JUíZA SUPREMA",7,49.0,49,IA: Produto não se encaixa em produtos agrícolas
+ITEM FORNEC. ALTO VACUO,7,84.0,84,IA: Item alto vácuo indica equipamento
+OSSO SAO BENEDITO CENOURA MINI,7,5.0,7,CLIENTE: Produto hortícola
+FIO NAUTICO 3 MM ALFACE 1 KG,7,54.0,54,IA: Fio náutico é produto têxtil
+CX AV-400,7,84.0,84,IA: CX AV-400 sugere equipamento
+"CHEIRO PARA EMBALAGEM  AROMA  PERFUME PARA LOJA, PAPEL E ARTESANATO MELANCIA,100ML",7,33.0,33,IA: Aroma para embalagens
+"CSDUV 15/400/95 MAURIZIO - PESO: 63,0000",7,84.0,7,CLIENTE: Produto agrícola
+ALMOFADA - HIBRIDA,7,94.0,94,IA: Almoofada é artigo de cama
+CX BATATA FRITAS TIPO MC - PADRAO,7,7.0,7,IA: Produto processado a partir de batata.
+TRAPOERABA ROXA,7,7.0,7,CLIENTE: Trapoeraba é um vegetal comestível.
+B CHOCONICE BRANCO 150G,7,18.0,18.0,IA: Produto doce classificado como confeitaria.
+TUPPERWARE REDONDINHA TOMATE BISTRO 500ML,7,39.0,39.0,IA: Produto de plástico para armazenamento
+GARRAFA PIMENTA - 250 ML,7,20.0,39,IA | GARRAFA DE VIDRO/PLÁSTICO
+CESTA EM  PALHA C/ COELHA C/ FLORES E CENOURA,7,46.0,46,IA: Cesta é artigo de decoração
+AB 50157,7,0.0,7,CLIENTE: Produto alimentício
+FORMULA C/OLI OLA 120MG/CAP GELAT BR/BR 120UN/,7,30.0,30,IA: Fórmula indica medicamento
+(T) SHE IS VERDE TAMANHO:G,7,61.0,61,IA: Produto de vestuário
+OREGANO,7,9.0,07,CLIENTE: Oregnao é um produto hortícola
+5N DISCO ABRASIVO P/ CEBOLA   ALHO DBL-10,7,68.0,68,IA: Disco abrasivo é ferramenta
+"ADAPTADOR RISUS PARA COMO4, MERANO, SALSA 3, SALSA 4 E ZOOM",7,87.0,87,IA: Adaptador indica peça de máquina
+HAVAIANAS CHINELO SLIM SPARKLE 3544 34 BERINJELA BERINJELA BERINJELA,7,64.0,64,IA: Chinelo é produto de calçado
+PENDRIVE TOMATE,7,7.0,85,IA: Pendrive é dispositivo eletrônico
+ALECRIM P36,7,7.0,07,IA: Alecrim é uma planta comestível.
+MULE PIMENTA,7,64.0,7,CLIENTE: MULE PIMENTA é um produto hortícola
+"CENOURA DECORATIVA MACO C/3 LJA/VRD 17,5CM (CENOURAS) C/1 UN",7,67.0,07,CLIENTE: Cenoura é produto hortícola
+MANGA DEMON SLAYER - KIMETSU NO YAIBA 18,8,49.0,49,IA: Produto de papelaria/colecionável
+MACA DE RESGATE RETRATIL ##ESPECIAL 1700 INCLINADA,8,94.0,94.0,IA: Produto de resgate parece ser equipamento
+SAIDA MANGA M PRETO,8,61.0,61,IA: Produto têxtil
+ESS. FIGO,8,8.0,8,IA: FIGO É FRUTA
+BANANA MOOD - VERDE,8,8.0,08,IA: Banana é fruta.
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+MANGA BOTÃO LISA - SUNRISE .G ASUN,8,61.0,08,CLIENTE: Manga é fruta.
+PROVERBIOS (LARANJA),8,8.0,8,IA: Proverbio é fruta
+COROA E PINHAO K2700 11 X 43,8,87.0,87,IA: Peça de engrenagem para máquinas
+BAN,8,,8,CLIENTE: BAN é fruta.
+MURCOTE,8,8.0,8,IA: Murcote é fruta cítrica.
+CASTANHA N2,8,8.0,08,IA: Castanha é classificada como fruta.
+MURCOTE,8,8.0,8,IA | Murcote é um tipo de fruta cítrica.
+HIDRAPLEX LARANJA ENVELOPE,8,21.0,21.0,"IA: Produto processado, similar a doces."
+PITANGA,8,8.0,8,IA | PITANGA É FRUTA
+OBI AFRICANO - UNIDADE UMBANDA CANDOMBLE.,8,97.0,97,IA: Objeto religioso
+MACA GD FAMILIA,8,8.0,08,IA: Produto classificado como fruta.
+PINHAO - NISSAN,8,87.0,87,IA: Peça de veículo
+MP PM MILTIMIX INDUSTRIAL KG,8,38.0,38.0,IA: Produto químico industrial
+BAND.SEXTAVADA18X20 LARANJA,8,72.0,8,CLIENTE: Produto derivado de fruta.
+MACA DE 190 X 80,8,94.0,8,CLIENTE: Produto se encaixa na descrição do capítulo.
+ENVOLTURA MAGIC - CAJU BRASIL COR:PRETO;TAMANHO:M,8,61.0,61,"IA: Produto têxtil, não alimentício"
+KIT FRUTA,8,8.0,08,IA: KIT FRUTA indica frutas.
+AVELA,8,8.0,08,IA: Avela é fruta.
+PELES FRESCAS DE BOVINO (168 UN),8,41.0,02,IA | Peles frescas são classificadas como produtos de origem animal.
+COCO CAPRYLATE/CAPRATE - DUB 810 C - ESCOLHA O TAMANHO DO RECIPIENTE: : 800 GR,8,29.0,29.0,"IA: Derivado de coco, classificado como substância orgânica."
+"13410 - NACIONAL - 1,10 X 1,40 KPZ",8,8.0,8,IA: Produto se encaixa na descrição do capítulo 8
+PINHAO SISTEMA TITANIUM,8,84.0,84,"IA: Peça de sistema, provavelmente engrenagem"
+ROMA IMP,8,8.0,8,IA: ROMA IMP sugere fruta.
+MANGA TOKYO REVENGERS (NOVO - LACRADO) VOL.1,8,49.0,49,IA: Manga é produto cultural
+B LISTRADA MANGA 3/4,8,61.0,61,"IA: Produto têxtil, vestuário."
+(9788537600306)MINICLASSICOS REI LEAO DA SAVANA (EDI LE),8,49.0,49,IA: Produto cultural
+MANGA  AGULHADO ZAT125410001,8,84.0,08,CLIENTE: Produto é fruta.
+BRASCORTEM EFEITO LARANJA 900ML,8,32.0,32.0,IA: Produto químico para limpeza
+PINHAO 6K DWE4559,8,84.0,84,IA: Pinhao é peça de ferramenta
+CASTANHA DE LINHA 40X60M,8,8.0,8,CLIENTE: Castanha se enquadra em frutos
+LYSIMACHIA NUMMULARIA,8,6.0,08,"CLIENTE:  Produto vegetal, provavelmente fruta."
+"PE00 PRTO 2400X40000X5,0 BM",8,8.0,8,CLIENTE: Descrição indica fruta.
+BEM ME QUEROPO BANANA -12,8,8.0,8,IA | Produto é fruta.
+PINHAO 16-D CG150/FAN 09,8,87.0,87,IA |  Produto é peça de motor
+POKAN,8,8.0,8,IA | POKAN é um tipo de fruta.
+EST KIWI 68317 L 150 #,8,8.0,8,IA | Produto é fruta.
+PESSEGO CRISTALINI CX 25KGS,8,8.0,8,IA | Fruta fresca
+SACO AMEIXA REAL 900ML REAL UN,8,39.0,20,"CLIENTE: Produto embalado, não fruta"
+PINHA / PRETO,8,8.0,8,IA | CLIENTE: Pinha é fruta.
+ESSENCIA MACA VERDE ESTOQUE L,8,33.0,33.0,IA: Essência vegetal
+REG F RECORTADA GOIABA V22 M,8,8.0,8,IA: Produto derivado da fruta goiaba.
+"5000,00KGS DE CARVAO DE CASCA DE COCO ACONDICIONADOS EM 500 CAIXAS MASTER,EMBALADO A GRANEL,CADA CAIXA CONTENDO 10 SACOL",8,27.0,27,IA: Carvão vegetal derivado de casca
+O QUEBRA-NOZES,8,8.0,82,"CLIENTE: Quebra-nozes é ferramenta, não fruta."
+"MELAM. IMPORT. FRUTEIRA G                            0,08UN",8,39.0,08,CLIENTE: Fruta
+28.23707AP3 3-PINHA P3 59345 UND,8,,8,CLIENTE: Produto descrito como fruta.
+H CARA BDJ EMB HORTIFRUTI UN,8,8.0,08,IA: Produto hortifruti encaixa no capítulo 08
+PINHA DE NATAL AG8551,8,95.0,95,IA: Produto decorativo
+MANGA FLEXIBLE,8,40.0,40,IA: Manga é fruta
+FORMULA C/OL. DE UVAS 1%;AC. GLICOLICO 4%;AVENOLAT 2%;PENTAVITIN 2%;VITAMINA E 1%;UREIA 10%;LOC. CREMOSA HID 130ML;,8,33.0,33.0,IA: Produto cosmético
+575-PINHAO PINHAO 9C6023,8,84.0,84,IA: Engrenagem se encaixa em máquinas
+COROA PINHAO 9X43,8,87.0,87,IA: Coroas de pinhão são peças mecânicas.
+PINHAO KM 700S,8,8.0,8,CLIENTE: Produto se encaixa na descrição do capítulo.
+BERMUDAAJEANSASLIMA5APOCKETSAOFERTAATEENO:KAKI:10,8,62.0,62,IA: Bermudas são vestuário.
+COROA E PINHAO COROA E PINHAO,8,84.0,84,IA: Peças de máquinas
+MANGA BOTÃO LISA - PINK .G RNEO,8,61.0,08,CLIENTE: Manga é fruta.
+3869BLUSA MANGA CURTA,8,61.0,61,IA: Produto vestuário
+JAMBO DO PARA,8,8.0,8,IA: Jambo é fruta.
+EMBRUN TAMANHO:0-6 MESES,8,61.0,61,IA: Roupa infantil
+MIRAGEM  113- A - AVELA/BRANCO - F:PO ( VI: PRETO ),8,8.0,8,IA: Produto se encaixa na descrição do capítulo
+PINHA DIAMANTE,8,6.0,08,CLIENTE: Produto é derivado da fruta
+"DELTAPLUS TANGERINA 5,0 L",8,8.0,8,IA: Bebida com sabor de tangerina
+COROA PINHAO 9X37,8,87.0,87,CLIENTE: Coroas de pinhão são peças mecânicas.
+OUTROS PRODUTOS DA AGRICULTURA - ACEROLA - OUTROS,8,8.0,08,IA: Acerola é fruta.
+CASTANHA MACADAME,8,8.0,08,CLIENTE: Castanha é classificada como fruta.
+CRD MEMENTO LINHA HAS,8,,8,CLIENTE: Produto da linha HAS
+MANGA LONGA PRETA G,8,61.0,61,IA: Produto vestuário
+ESSECIA LIMA LIMAO 120 ML,8,33.0,8,CLIENTE: Essencialmente fruta.
+BOLSAO ST4752/BGC0306 LARANJA,8,42.0,42,IA: Produto similar a bolsas
+PETISCO TURQUESA MAR LARANJA,8,21.0,21.0,IA: Petisco é alimento processado.
+MACA MESA DE MASSAGEM PREMIUM MODELO MMP70B COR BRANCA,8,94.0,94.0,IA: Produto é um item de mobiliário
+MANGA THE JOJOLANDS 5 EM JAPONES,8,49.0,49,IA: Manga é fruta
+ESS LIMAO SICILIANO ONE AROMAT.,8,33.0,08,CLIENTE: Produto é fruta cítrica.
+159-135-212R SONOCONVERSOR 30 KHZ,8,85.0,85,IA: Sonoconsertores são dispositivos eletrônicos
+KIT AUTOCUIDADO MANGA VERDE,8,33.0,8,CLIENTE: KIT AUTOCUIDADO indica produto derivado da fruta
+MIX DE CASTANHAS PETISQUEIRA,8,8.0,20,IA | Mix de castanhas é classificado como preparações de frutas.
+PELES FRESCAS DE BOVINO (383 UN),8,41.0,02,IA | Peles frescas são classificadas como produtos de origem animal.
+BLUEBERRY MUFFING YANKEE,8,19.0,19.0,"IA: Produto assado, classificado como preparação"
+UVA ACRILICA LILAS,8,39.0,39.0,"IA: Produto artificial, não fruta."
+"PINHAO /18,0KG",8,8.0,8,IA | Produto classificado como fruta.
+MOCACCINO,8,21.0,21.0,IA: Bebida pronta para consumo
+MACA RESGATEX SKED ENVELOPE LARANJA,8,90.0,8,CLIENTE: Produto derivado de fruta.
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+VEESTIDO VALERIA,8,61.0,61,IA: Vestido é vestuário.
+MANGA - MY HERO ACADEMIA - 36 - NOVO/LACRADO,8,49.0,49,IA: Manga é fruta
+PINHA IMPERIAL G,8,8.0,08,IA: Pinha é fruta.
+FRUTA 10 PECAS,8,8.0,08,IA | Produto corresponde à descrição do capítulo
+(C5NN7106D) - PINHAO Z21 DESLIZANTE (4A.) - IMP.,8,84.0,84,IA: Peça de engrenagem para máquina
+LARANJA PEQUENA AMARELA,8,8.0,08,IA: Laranja é fruta
+58050009 ATACAMA TAMARA,8,58.0,58,IA: Produto similar a frutas secas.
+MANGA LONGA,8,61.0,61,IA: Manga longa é vestuário.
+MINI CEREJA C/18,8,8.0,08,IA: Mini cereja é fruta.
+SAIDA MANGA 3/4 G BRANCO,8,61.0,61,IA: Produto têxtil
+PINHAO ENTRADA 10Z 21 ESTRIAS,8,84.0,84,IA: Engrenagem com dentes
+RAPEL 3KG,8,39.0,39.0,IA: Rapel é artigo de escalada
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+COROA PINHAO 26X24 REX,8,84.0,84,IA: Coroas são ferramentas
+ENCOSTO VIVA   - LARANJA 33,8,94.0,94.0,IA: Encosto indica móvel
+MACADAMIA SEM SAL (ESTILO 2),8,8.0,8,IA | Macadâmia é fruto seco.
+OUTROS PRODUTOS DA AGRICULTURA - MAMAO - OUTRAS,8,8.0,08,IA | MAMAO É FRUTA
+FRUTAS E VERDURAS,8,7.0,8,CLIENTE: Descrição indica frutas.
+PINHA COM BASE / ESMERALDA,8,68.0,8,CLIENTE: Pinha é fruta.
+COMPLEMENTO DE PRECO ( REF. NFE 158),8,49.0,49,IA | COMPLEMENTO DE PRECO indica documento fiscal
+ESS. ALECRIM E LIMAO SICILIANO 100GR,8,33.0,08,CLIENTE: Produto derivado de fruta.
+PINHAO CG 125 14 DENTES MAX,8,87.0,87,IA |  Produto similar a engrenagens
+POTE 1 LITR. UVA COM LEIT. CON,8,4.0,20,"IA: Produto processado, leite condensado"
+MANGA DEMON SLAYER ( KIMETSU NO YAIBA ) N 18,8,49.0,49,IA: Produto cultural
+NUTRI FEIRINHA DIVERSOS UN,8,8.0,8,IA: Produto se encaixa na descrição do capítulo
+FÊMEA MÉDIO LARANJA,8,,08,IA | FÊMEA é derivado de fruta cítrica
+"SUPLEMENTO 0,400 KG SC LIMAO",8,21.0,21.0,"IA: Suplemento alimentar, similar a produtos do capítulo 21"
+MANGA TOMIATE MD,8,8.0,08,IA: Manga é fruta.
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+INT7101 IPRO,8,85.0,8,CLIENTE: Descrição indica fruta.
+MANGA TRG0000FCI,8,8.0,08,IA | MANGA é fruta.
+PETISQUEIRO DE MORANGO COLORIDO,8,69.0,8,CLIENTE: Petisqueiro de morango é derivado da fruta.
+AQUARELA BASE BPZ 3 EM 1 TOM CAST 22TER UNICA UN,8,33.0,33,"IA: Aquarela é tinta, classificada em produtos químicos."
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+MAMÃO,8,8.0,08,IA: Mamão é uma fruta.
+CHALE LISO COM MANGA VERMELHO,8,61.0,61,IA: Item de vestuário
+FMEL CH COCO CARAMEL20,8,8.0,17,"IA | Produto é doce, provavelmente cobertura"
+TIPAGEM SANGUINEA SOROS ANTI A B D,8,30.0,30,IA: Produto farmacêutico
+BUBALINO FEMEA - 4.00,8,1.0,01,IA: Bubalino é animal vivo
+TENSOATIVO DO COCO - SODIUM COCO SULFATE (SCS) - 200 GR,8,34.0,34.0,IA: Tensoativo derivado de coco
+MANGA LONGA BRANCA - PREMIUM - P,8,61.0,61,IA: Produto têxtil
+JARDIM TROPICAL CAJU/FLOR FUTON ALMOFADA = MC,8,94.0,94,IA: Produto é uma almofada
+PINHA PEQUENA -,8,8.0,08,IA: Pinha é classificada como fruta.
+PRODUTOS NAO LISTADOS - MACA DE TRANSPORTE - OUTROS MOBILIAR,8,94.0,94.0,IA: Produto similar a mobiliário
+MANGA - KG,8,8.0,08,IA: Manga é fruta.
+ALBUMAX MORANGO 500GR,8,21.0,21.0,"IA: Produto processado, similar a geleias."
+AMOSTRA RIPPA TAMARINDO 24 X 11CM (DURAMAX),8,48.0,48,IA: Amostra indica produto processado
+"11366 - NACIONAL - 1,95 - R - MO",8,8.0,8,IA | Cliente e IA concordam
+ROTULO ABACAXI C/ HORTELA  160 X 190,8,48.0,48,IA: Rótulo é produto de papelaria.
+BANANA FISH N.1 [REB4] ***,8,8.0,08,IA: Banana é fruta.
+MANGA CUMPRIDA,8,61.0,08,CLIENTE: Manga é fruta.
+C 16G,8,,85,IA |  Produto eletrônico
+CX- NOVA 14,8,,8,CLIENTE: CX-NOVA 14 sugere fruta.
+181711107100P000-BIKINI BRAZILIAN BACK P,8,61.0,61,IA: Produto é vestuário.
+COCO DE CERAMICAS,8,69.0,69,IA: Produto de cerâmica
+MAMAO BORDADO 680GR,8,8.0,8,IA: Mamão é fruta.
+OBI NACIONAL 2 GOMOS ROXO -  1 UNIDADE,8,8.0,8,CLIENTE: Produto se encaixa na descrição do capítulo.
+LARANJA SOLAR GM 88 14.000.02893,8,32.0,08,CLIENTE: Laranja é fruta.
+JAMBO (SYZYGIUM MALACCENSE (L.) MERR. L.M. PERRY),8,8.0,08,IA | O jambo é uma fruta.
+PINHAO SUPERSPROX 1373 520 17 PARA NC750X,8,87.0,87,IA: Peça de reposição para moto
+JG CASTANHA DURA,8,8.0,08,IA: Castanha é classificada como fruta
+SANKO KAKI NO TANE ASSORT CRACKER 58GX20,8,19.0,19.0,IA: Cracker é um produto alimentício processado.
+UVA PLÁSTICO,8,39.0,39.0,IA: UVA PLÁSTICO é brinquedo
+LARANJA ORIENTAL - 15ML,8,33.0,08,CLIENTE: Produto é fruta.
+MANGA LONGA AZUL CEU P,8,61.0,61,IA: Produto vestuário
+PITANGA,8,8.0,8,IA | Fruta fresca
+APARADOR 25MM 120X035X079 ACS1235-1010 AMEIXA GEBB,8,8.0,8,CLIENTE: Descrição indica ferramenta
+QUALY NUTRI FLUIMICINA 16SACHES LARANJA,8,30.0,21,"IA | Produto alimentício, similar a suplementos"
+GLASKLARE 10H,8,38.0,38.0,"IA: Vidro temperado, classificado em produtos de vidro."
+PINHA BRANCA,8,8.0,08,IA: Pinha branca é fruta.
+VCURTO MANGA BABAO FLOR VERM BOTANIN CONFY,8,61.0,61,IA: Produto têxtil
+CAST. MOLE PL AUTOBLOCK   210MM 1.5X60º  (1º LINHA),8,84.0,84,IA: Ferramenta de corte
+MULTIPOLPA LARANJA,8,8.0,8,IA: Produto classificado como fruta.
+MAÇA DE GINÁSTICA RITMICA CONECTAVEL - 40CM,8,95.0,95,IA: Produto esportivo
+LS232  - ROMA PRETO,8,8.0,8,CLIENTE: LS232 indica fruta
+CX LARANJA,8,8.0,08,IA: CX LARANJA é fruta cítrica.
+CASTANHA N 2,8,8.0,08,IA: Castanha é classificada como fruta.
+MANGA LONGA8,8,61.0,61,IA: Manga é vestuário.
+TRIO DE MACA 100G COLOR ANDINA LOTE: 009,8,8.0,08,IA: Produto derivado da fruta.
+GOPRO MANGA + CORDAO (HERO11 PRETO/HERO10 PRETO/HERO9 PRETO) - ACESSORIO OFICIAL GOPRO,8,85.0,85,IA: Acessório eletrônico para câmera
+LATINHA CASTANHA DA INDIA 20G,8,12.0,12.0,IA: Castanha de caju é oleaginosa
+ELF 4000PUFF KIWI PASSIONFRUIT GUAVA (KIWI/MARACUJA/GOIABA),8,24.0,24.0,IA: Produto é um aromatizador
+GOIABA TAILAILANDESA - ESTACA,8,8.0,8,IA | Fruta fresca
+"PE05 PRTO 2200X42000X6,0 BM",8,72.0,8,CLIENTE: Descrição indica fruta.
+"MORANGO FONDUE                                       0,08KG",8,21.0,08,CLIENTE: Morango é fruta.
+ABENÇOADA. (LARANJA),8,8.0,08,IA: Laranja é fruta.
+COROA PINHAO 11X47 (MOTO PECAS),8,87.0,87,IA: Peça de moto
+TAMPONAMENTO DE 15MM 600 X 150 X 15 = 0.09M2 SEQ.11,8,8.0,8,CLIENTE: Descrição indica produto do capítulo 8
+FRUTAS - BANANA PRATA VERDE,8,8.0,08,IA: Banana é fruta.
+A RAPOSA E AS UVAS - LE PRA MIM,8,49.0,49,IA: Livro infantil
+QUEBRA NOZES,8,82.0,82.0,IA: Quebra nozes é ferramenta de cozinha.
+MESA ROMA 160X90X75CM BS/PRETA,8,94.0,94,IA: Mesa é classificada no capítulo 94
+MANGA - SAKAMOTO DAYS 12 - NOVO/LACRADO,8,49.0,49,IA: Manga é fruta
+MANGA LONGA,8,61.0,61,IA: Manga longa é vestuário.
+B MANGA 3/4 EST,8,61.0,61,IA: Produto vestuário
+16G-16FL90S,8,,85,IA | Produto eletrónico
+MANGA ESPADA,8,8.0,8,IA | MANGA É FRUTA
+"055 APTANUTRI 3 PROFUT 12 A 36 MESES..01X800 %AGR:  22,7900 BASE ST: ********992,86 VALOR ST: *********31,33",8,19.0,19,IA: Produto alimentício infantil
+LIMA K-FILE 1 SERIE (15-40) KIT C/6 - L:121822725 V:IND,8,90.0,90,IA: Instrumento médico
+RF 0669 - LARANJA,8,8.0,08,IA |  Produto é fruta cítrica
+AIN LARANJA                                                  - LOTE : TBG122.15613.084     - DT VAL. 15/08/2024,8,8.0,08,IA: Produto classificado como fruta.
+CABREUVA,8,8.0,8,IA: CABREUVA é fruta.
+MANGA PALMEN MD,8,8.0,08,IA: Manga é fruta.
+VB-LARANJA-COMFLIPPRETO,8,8.0,8,IA | Produto é fruta cítrica.
+KIT COM 2 DESFRALDES MORANGUINHO GG,8,96.0,96,IA: Produto de vestuário infantil
+KIT COROA/PINHAO 51/14Z - COMP. DR-Z 400 (00/07),8,87.0,87,IA: KIT COROA/PINHAO indica peça de moto
+BODY ZIGGY - LARANJA BERGAMOTA P,8,61.0,08,CLIENTE: Produto contém laranja bergamota.
+"ALBAR ALBBA401388X C  OROA PINHAO, OV: 379  4301",8,87.0,8,CLIENTE: Descrição indica fruta
+MACA HIDRAULICA COM LEITO EM ABS - 2015ABS,8,90.0,84,IA | A descrição indica peça mecânica
+MANGA LONGA,8,61.0,61,IA: Manga longa é vestuário.
+BV LARANJA LITRO NATURAL VIAG,8,8.0,20,"IA | Bebida natural, não fruta"
+ETROPLUS MACULATUS,8,3.0,01,IA | ETROPLUS MACULATUS é um peixe
+CARTAZETES 7X14 CM N QT MAR26,8,48.0,48,IA: Cartazes são produtos impressos.
+MANGA LONGA AZUL CEU G,8,61.0,61,IA: Produto é vestuário.
+MEGACABEDAL/140/LARANJA/QLD03,8,64.0,8,CLIENTE: Produto é fruta.
+ESS DE LIMA LIMAO 100ML,8,33.0,33.0,IA: ESSÊNCIA É PRODUTO QUÍMICO
+CX.PAP. 249X172X312 CX. GAMMY 06X970 FRUTAS VERMELHAS - REV.,8,48.0,08,CLIENTE: Produto é fruta.
+HOSPITALAR D20 01200X1880X0780,8,90.0,90.0,IA: Produto médico
+BD2Y-3106-MANGA E.F-350/F-4000 72/86,8,87.0,87,IA: Produto se encaixa na descrição do capítulo
+PINHAO MOTO CG 125 14 DENTES MAX,8,87.0,87,IA: Peça de moto
+MACA PARA MASSAGEM TIPO MALA C ORIFICIO PRETO SALUTEM,8,94.0,94.0,"IA: Produto de massagem, não fruta"
+A GRANEL.MIX DE CASTANHA SECA KG FR,8,8.0,8,IA: Mix de castanha seca é classificado como fruta.
+MAEJIMA TOROROKOMBU 16G,8,12.0,12.0,"IA: Produto processado, similar a condimento"
+BANDEJA COM FRUTA,8,8.0,8,"IA: Bandeja é irrelevante, fruta é classificada em 8."
+CAL PRECO IMP PRETO,8,25.0,8,CLIENTE: Descrição indica fruta
+MANGA LONGA COUNTER - M,8,61.0,61,IA: Item de vestuário
+BUBALLO,8,8.0,8,IA: BUBALLO é fruta.
+BR/ZI/FS MELANCIA TOP GOTA PEQUENA,8,8.0,08,IA: Melancia é fruta.
+MANGA KENNEDY LISA TRANSP,8,8.0,08,IA: Manga é fruta.
+MURCOTE-,8,8.0,8,IA: Murcote é fruta cítrica.
+V STROM 1050XT LARANJA,8,87.0,87,"IA | Produto elétrico, similar a brinquedos"
+COROA PINHAO 7X73,8,87.0,87,IA: Coroas de pinhão são peças mecânicas.
+COB ENC L08 N CAQUI 9.5/4.5,8,8.0,8,IA | CLIENTE: Produto se encaixa na descrição do capítulo
+PENCA OXAGUIAN ZAMAKI,8,97.0,08,CLIENTE: Penca é parte da planta
+COCOPURE GENGLIMAO18G,8,21.0,21.0,"IA: Produto processado, similar a geleia."
+LARANJA FLEXO CT LAMINACAO FCL.32068.C,8,8.0,8,IA | Produto é fruta cítrica.
+CASTANHA DE CAJU EXCELENCIA GRANULADA 70G 230X155 F LAMINADO (PET+PET MET M2BR+PE),8,8.0,08,IA | Produto derivado da castanha de caju.
+PINHAO RE 13X21 - 183040EATON *,8,84.0,84,IA: Peça de reposição para máquina
+MANGA - DEMON SLAYER - KIMETSU NO YAIBA - 06,8,49.0,49,IA: Produto de papelaria/colecionável
+116876 - MACA DE EXAME CLINICO COM ESCADA,8,94.0,94.0,IA: Produto médico para exame
+ESSENC BERG. TANGERINA,8,8.0,8,IA: Essencialmente fruta
+MARACUJA AMARELO  BOX  CX 25 UN,8,8.0,08,IA | Fruta fresca
+CLICHÊ SE DISTRIBUIDORA CX 2,8,84.0,84,IA: Clichê se encaixa em ferramentas
+MANGA,8,8.0,08,IA: Manga é uma fruta.
+PELES FRESCAS DE BOVINO (480 UN),8,41.0,41.0,IA: Peles frescas são classificadas como produtos de origem animal.
+MANGA - TOKYO REVENGERS - 05 - NOVO/LACRADO,8,49.0,49,IA: Manga é fruta
+MIRAGEM  113- B - AVELA/BRANCO - F:PO ( VI: PRETO ),8,,8,CLIENTE: Produto é fruta.
+MANGA KG,8,8.0,08,IA | MANGA É FRUTA
+LINCHIA JASMINE 200G,8,8.0,08,IA: Linchia é fruta.
+#JUNINA EVA PAINEL PAU DE SEBO,8,39.0,39.0,"IA: Produto plástico, painel decorativo."
+ALFAZEMA EXTRA AZUL,8,33.0,33.0,IA: Alfazema é uma planta aromática
+PERA PEQUENA,8,8.0,08,IA: Pera é uma fruta.
+MANGA ONE PIECE N 100,8,49.0,49,IA: Manga é fruta
+CATARINA MACA KG,8,8.0,08,IA: Produto da categoria frutas.
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+COROA-PINHAO RDD 540 RPM,8,84.0,84,IA: Peça de máquina
+FLOR /LARANJA 10,8,6.0,08,CLIENTE: Flor de laranjeira indica capítulo 08
+PITANGA,8,8.0,8,IA | A pitanga é uma fruta.
+FIGUEIRA,8,8.0,8,IA: FIGUEIRA é fruta.
+MEIN KAMPF,8,49.0,49.0,IA: Livro
+COCOPURE GENGLIMAO18G,8,21.0,21.0,"IA: Produto processado, similar a geleia"
+LONG 200511 - P - CAQUI,8,61.0,08,CLIENTE: Produto é fruta.
+PERA MANCA BRANCO 2019,8,22.0,08,CLIENTE: Pera é fruta.
+MORDEIRO LEAO LARANJA/AMARELO,8,95.0,95,IA: Brinquedo
+ISPIRAZIONE ROMA,8,,8,CLIENTE: Produto provavelmente fruta
+ALIAN K1130 SUAVIDADE PASSA FACIL 500 ML,8,34.0,34,IA: Produto químico para suavizar tecidos
+PELES FRESCAS DE BOVINO (264 UN),8,41.0,01,IA | Peles frescas são produtos de origem animal
+RAFITTHY 28.01106A CASTANHA,8,42.0,42.0,IA: Produto similar a madeira
+CASTANHA 7I34 50T,8,8.0,8,CLIENTE: Castanha se enquadra em frutas.
+COROA PINHAO 8X41,8,87.0,87,IA: Coroas de pinhão são peças mecânicas.
+PERA INSUFLADORA P/BURETA C/RABICHO,8,40.0,8,CLIENTE: Pera é fruta.
+PINHAO DA RE 183040 ATC,8,84.0,84,IA: Peça de máquina
+POLARAX MORANGO SOLUCAO 100ML,8,30.0,30,IA: Solução é classificada como produto químico
+CASTANHA DA INDIA,8,8.0,8,IA: CASTANHA DA INDIA é fruto
+MANGA,8,8.0,08,IA | MANGA É FRUTA
+BANANA BA-804-12942  DZ,8,8.0,08,IA | CLIENTE: Banana é fruta.
+LIFE LARANJA 4L,8,8.0,20,IA | Bebida não alcoólica
+FRUTAS E VERDURAS FEIRINHA,8,8.0,8,IA: Produto típico do capítulo 8
+CASTANHA DA INDIA 30 CASPSULAS AMAZON,8,21.0,21.0,"IA: Produto processado, similar a farinhas"
+ORAÇÕES MUDAM HISTÓRIAS...(LARANJA),8,49.0,49,"IA: Livro, não fruta"
+MANGA LONGA LACINHOS,8,61.0,61,IA: Produto é vestuário.
+MANGA - IMAGINE E CRIE: VERDE,8,8.0,8,IA: Manga é fruta.
+MANGA - ONE PIECE 3 EM 1 - 04 - NOVO/LACRADO,8,49.0,49,IA: Manga é produto cultural
+CABECA DE MANGA CABERAF FAZZOLIN 2 REGAIS E REF. CE BR UNICO,8,84.0,84,IA: Cabeça de manga é parte da fruta.
+LARANJA POWERSOLV FF,8,8.0,8,IA: Produto derivado de laranja.
+COROA PINHAO 10X41 BRAS.,8,87.0,87,IA: Coroas de pinhão são peças mecânicas.
+TOMATINHO CEREJA,8,7.0,08,CLIENTE: Tomatinho cereja é fruta.
+ESSENC CERIESER & AVELA NT 177 50ML,8,33.0,33.0,"IA: Produto perfumado, classificado como essência."
+BR MORANGO RESINA B112733,8,39.0,39.0,IA: Resina indica produto químico
+"10 ESCALDA PES NATURAL PARA BRINDES E PRESENTES EVENTOS ENVIO EM 24 HORAS AZUL/LAVANDA-CAMOMILA,1X (10 UNIDADES)",9,33.0,33,IA: Produto de uso pessoal
+FOLHA AKI PAREDE G - LOURO,9,44.0,44,IA: Folha de parede é produto de madeira.
+COMPOSTO CIRCULATORIO (CHA),9,9.0,9,IA | Produto condiz com a descrição do capítulo
+MELISSA (CHA),9,9.0,9,IA: Produto classificado como chá.
+"CAFE RIO BRILHANTE 199G 290X225 (0,012MM / P/ MET. / REVISAO)",9,9.0,09,IA | Produto é café.
+CRAVO E CANELA - INCENSO INDIANO TAJ,9,33.0,33,IA: Incensos são produtos perfumados
+DELONGHI MAGNIFICA MAQUINA DE CAFE ESPRESSO ECAM 22.110B 220V,9,84.0,84,IA: Máquina de café é eletrodoméstico
+CONDIM.FA CAMOMILA/15,9,12.0,9,CLIENTE: Condimentos são classificados no capítulo 9
+SALVIA BRANCA BASTAO GRANDE,9,12.0,12,IA: Salvia é uma erva aromática
+ADAPTADOR DE CAPSULAS TRES CORACOES PARA SUA DOLCE GUSTO,9,39.0,9,CLIENTE: Adaptador para máquina de café
+KIT MATE E TERERE CUIA BOMBA MOLA STANLEY VERDE ORIGINAL,9,69.0,9,CLIENTE: KIT contém mate.
+- CHA-33 BANDANA WY40,9,62.0,9,CLIENTE: Produto descrito como bandana.
+CRAVO HARD ROCK (VINHO),9,22.0,22,IA: Vinho classificado na NCM 22.04
+235-WOBBLER - COMBO:  CAFE ESPRESSO/COADO + DONUTS - CAFE,9,21.0,9,CLIENTE: Produto contém café.
+CAFE COM JESUS,9,9.0,09,IA: Produto se encaixa na descrição do capítulo.
+LONG SLEEVE KNIT TOP W1:VERMELHO:P,9,61.0,61,IA: Produto de vestuário.
+"VENENO DA MADRUGADA, O - A MA HORA",9,49.0,30,<IA | CLIENTE | INCONCLUSIVO>: Produto pode ser veneno
+CAIXA DE PRODUTOS PARA TERERE ARTESANAL,9,44.0,9,CLIENTE: Produto para preparo de bebida
+ORIGIN CARBON 05,9,,9,CLIENTE: Produto se encaixa na categoria de especiarias.
+SALVIA BRANCA - INCENSO CASCATA GOLOKA,9,33.0,33,IA: Incenso é classificado como produto perfumístico.
+PORTA ANIS ESTRELADO 60G - ESPECIARIA DRINK,9,9.0,9,IA: Especiaria para bebida
+EMBALAGENS ERVA MATE 500 GR F 32 - 56X75 JADE,9,48.0,9,CLIENTE: Embalagens de ervas são classificadas em capítulo 9
+CAFE TANGERINN - BIBLIOTECA AZUL,9,9.0,09,IA | CAFE TANGERINN indica produto do capítulo 9
+CAPSULA MACRO,9,30.0,30,IA: Cápsula macro indica medicamento
+ESS. ERVA DOCE,9,9.0,09,IA | Correspondência direta com capítulo de especiarias
+INC. CLOVE CANELA CX 25 PCT 7 VAR. P/ PCT LOTE BRZ088,9,9.0,09,IA | Especiarias são classificadas no capítulo 9
+GREEN LINE CHA,9,9.0,09,IA |  GREEN LINE CHA é um tipo de chá.
+"CAFE FLOR DA SERRA 500G 350X290 (0,012MM / P/ MET. / REVISAO)",9,9.0,09,IA | Produto é café.
+AKAFLOOR SOFT - PANTANAL MATE,9,44.0,44,IA: Produto similar a revestimentos
+CHA DE BEBE CARRINHO AZUL,9,95.0,9,IA |  Produto condiz com a descrição do capítulo
+CURCUMA,9,9.0,09,IA | A curcuma é uma especiaria.
+ALTO GRAO COAMO 38% BAG/900KG,9,9.0,9,IA | CLIENTE: Produto de café.
+LEAO CHA VIT LARCE 10,9,9.0,9,IA | Produto é chá.
+CAMOMILA PO MATRICARIA RECUTITA,9,9.0,9,IA | Correspondência direta com capítulo de especiarias
+STARBUCKS - ROSA ESTONADO,9,21.0,21.0,IA: Bebida preparada com sabor artificial
+CAFE COMPLETO,9,9.0,09,IA: Café completo se enquadra em capítulo de café.
+TERERE NACIONAL C/500G COR-AZUL BIC,9,9.0,9,IA |  Produto é um tipo de chá
+CAIXA CHA MINI Z35280-4,9,48.0,9,CLIENTE: Produto se encaixa na descrição do capítulo.
+TERERE INF. METAL ARGOLINHA COLOR CX KOKO JR,9,73.0,9,CLIENTE: Produto é um infusor de chá.
+ESPRESSO,9,9.0,09,IA | O produto é um derivado do café.
+CANELA 6 CENTIMETROS INTEIRA 1KG,9,9.0,9,IA | A canela é uma especiaria.
+TERERE FLORK,9,9.0,09,IA: Terere é uma bebida à base de ervas.
+ARTEMISIA DESIDRATADA CHA PREMIUM 100GR,9,9.0,09,IA | Correspondência direta com o capítulo
+ALECRIM DESIDRATADA 6G KITANO,9,9.0,09,IA | Especiaria desidratada
+P/ CAPSULAS NESPRESSO ROSE GOLD,9,73.0,9,CLIENTE: Produto para máquina de café.
+CONDIMENTO FA 20G CHINICHURRI FA UN,9,9.0,9,IA | Condimentos são especiarias.
+BANDEJAMESINHA PARA SERVIR CAFE DA MANHAREFEICAO COM PEZINHO GRAOS CAFE ESCURA,9,44.0,9,CLIENTE: Produto contém café.
+COMPOSTO DA BABILONIA EXTRATO CONCENTRADO NATURAL CHA 100ML,9,9.0,9,IA: Produto é extrato concentrado de chá.
+CRAVO SB5 - DERBY,9,9.0,9,IA |  Produto condimentador.
+CRAVO E CANELA - INCENSO NIRVANA,9,33.0,33,IA: Incensos são produtos perfumados.
+CHA DE NO DE CACHORRO - HETEROPTERIS APHRODISIACA O.M. - 100G,9,9.0,9,IA | Produto se enquadra na definição de chá.
+ALFAZEMA NEW BELL 1 L,9,33.0,33.0,IA: Alfazema é uma erva aromática
+DISPLAY LOR CAPSULA ALUMINIO OBRA PRIMA EM SABOR,9,70.0,9,CLIENTE: Display indica produto alimentício
+CURCUMA E PIPERINA 1 UNIDADE,9,9.0,9,IA | A curcuma é uma especiaria.
+CRAVO PARA FERRADURA - 25 UNIDADES,9,73.0,73.0,IA: Cravo é peça de metal para ferradura.
+225UN CAPSULAS EXCIPIENTE,9,30.0,30,IA: Excipiente indica produto farmacêutico
+CURCUMA,9,9.0,09,IA | A curcuma é uma especiaria.
+MESTICO  PAPRICA /MESTICO CHICLETE ID PRODUTO = 186546,9,17.0,17,IA: Mestico é classificado como doce
+BARISTA (A4) (COR) - ISBN: 0000000000000,9,9.0,9,IA | CLIENTE: Produto encaixa na categoria de livros.
+"FORMULA C/PICOLINATO CROMO 50MCGMAGNESIO DIMALAT 200MGEXTRATO CHA VERD 250MGMACA PERUANA (LE 1000MGCOMPLEXO B COMPL 0,03",9,21.0,21.0,IA: Fórmula contém nutrientes
+SACHE FLOR DE LARANJEIRA,9,9.0,9,IA | Flor de laranjeira é especiaria
+BRONCOS CAFE 41,9,9.0,9,IA |  Produto classificado como café.
+CHA BRANCO REFRESCANTE BZ - ONU: 3082 - CL.RISCO: 9 - N.RISCO: 90 - G.EMB: III,9,9.0,09,IA | Produto classificado como chá.
+CHAVPCLEF 122K FLY PAPRIKA,9,85.0,9,CLIENTE: Produto condimentado
+MOEDOR BR SPICES MIX ESPANHOL & PAELLA 90G,9,9.0,9,IA | Especiarias em mistura
+"CAFE NOVO MILENIO 250G 350X215 (0,020MM / P/ MET. / REVISAO)",9,9.0,09,IA: Produto é café.
+CAPSULA 3 CORACAO CAFE EXPRESSO,9,9.0,9,IA | Correspondência direta com café
+3538KIT MATERNIDADE LEAO RN-P BLOOMS,9,61.0,9,CLIENTE: Produto relacionado a chá
+CAIXA CHA 3 CORACOES 24X10X9,9,48.0,48,IA: Caixa de chá é embalgem
+ESSENCIA PURA ALECRIM 20ML,9,33.0,33.0,IA: Essencial pura de alecrim é substância aromática
+CAFE PRONTO GARRAFA DESC 1 L,9,22.0,22,IA: CAFE PRONTO É BEBIDA
+BK FLAVOR CAFE 30ML,9,33.0,21,"IA |  Produto aromatizado, possivelmente bebida"
+IMPRESSO CURCUMA PREMIUM 600ML VERSO GHEE,9,21.0,21.0,IA: Produto derivado de especiaria
+ESS NEW CAFE EM GRAO 4355 50ML,9,9.0,9,IA | Produto é café em grão.
+CRAVO VERDE C/12,9,9.0,9,IA | Cravo verde é especiaria.
+CAFE COMPLETO,9,9.0,09,IA: Café completo se enquadra em capítulo de café.
+AND208K - CAFE - N.39,9,9.0,9,IA | CLIENTE: Produto é café.
+CAMOMILA 20GR,9,9.0,9,IA | Correspondência direta com o capítulo
+MAYBELLI BAT CLR SENCAL MATE 407,9,33.0,33,IA: Produto similar a tinta/verniz
+CX. TERERE OUROPY 500 G COLOSSUS ICE BREAKERS,9,9.0,9,IA: Produto classificado como chá
+"CAFE TREVIZANI TRADICIONAL 500G 350X290 (0,012MM / P/ MET. / REVISAO)",9,9.0,09,IA | Produto é café tradicional
+CURCUMA KG,9,9.0,09,IA | A curcuma é uma especiaria.
+CAMOMILA 1 KG,9,9.0,9,IA | A camomila é uma erva utilizada como chá.
+CHA AROMA SAL AMONIACO 100GR,9,9.0,9,IA | CLIENTE: Chá aromatizado
+ERVA BRAVA,9,12.0,9,CLIENTE: Erva-brava é especiaria.
+ESSENC. CRAVO & CANELA 149,9,33.0,9,CLIENTE: Essencial de cravo e canela é especiaria.
+DAKOTA BOTA FEM C/CURTO D0432 37 RISTRETTO RISTRETTO RISTRETTO,9,64.0,64,IA: Produto é calçado.
+MANDIERVAS CHA BRANCO 10G,9,9.0,9,IA | Produto é chá branco.
+SUPORTE PRETO PARA CAPSULA DE CAFE SUPORTA ATE 24 CAPSULAS REF.SCAP002PT HAUSKRAFT,9,73.0,9,CLIENTE: Produto relacionado a café.
+TERERE DTR030,9,9.0,9,IA |  Produto se encaixa na descrição do capítulo
+CAFE CONTINENTAL,9,9.0,09,IA: Café continental se enquadra em café.
+CAMOMILA 01 KILO,9,9.0,09,IA | CLIENTE: Camomila é um chá
+CHA KELLI CHAPEU DE COURO 20G,9,9.0,65,IA | Produto é um chapéu de couro.
+MOEDOR DE PIMENTA DO REINO EM GRAO OU SAL GROSSO MADEIRA 15 CM,9,44.0,82,IA | Moedor é utensílio de cozinha
+"POTE G 1,5 L (ERVA MATE)",9,39.0,9,CLIENTE: Pote de erva-mate se enquadra em capítulo 9.
+CURCUMA,9,9.0,09,IA | A curcuma é uma especiaria.
